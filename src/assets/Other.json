@@ -1,0 +1,1480 @@
+{
+    name: "Other",
+    subCategories: [
+    {
+        name: "Aerial Fishing",
+        items: [
+        {
+            id: 22840,
+            itemName: "Golden tench"
+        },
+        {
+            id: 22846,
+            itemName: "Pearl fishing rod"
+        },
+        {
+            id: 22844,
+            itemName: "Pearl fly fishing rod"
+        },
+        {
+            id: 22842,
+            itemName: "Pearl barbarian rod"
+        },
+        {
+            id: 22838,
+            itemName: "Fish sack"
+        },
+        {
+            id: 13258,
+            itemName: "Angler hat"
+        },
+        {
+            id: 13259,
+            itemName: "Angler top"
+        },
+        {
+            id: 13260,
+            itemName: "Angler waders"
+        },
+        {
+            id: 13261,
+            itemName: "Angler boots"
+        }
+      ]
+    },
+    {
+        name: "All Pets",
+        items: [
+        {
+            id: 13262,
+            itemName: "Abyssal orphan"
+        },
+        {
+            id: 22746,
+            itemName: "Ikkle hydra"
+        },
+        {
+            id: 13178,
+            itemName: "Callisto cub"
+        },
+        {
+            id: 13247,
+            itemName: "Hellpuppy"
+        },
+        {
+            id: 11995,
+            itemName: "Pet chaos elemental"
+        },
+        {
+            id: 12651,
+            itemName: "Pet zilyana"
+        },
+        {
+            id: 12816,
+            itemName: "Pet dark core"
+        },
+        {
+            id: 12644,
+            itemName: "Pet dagannoth prime"
+        },
+        {
+            id: 12643,
+            itemName: "Pet dagannoth supreme"
+        },
+        {
+            id: 12645,
+            itemName: "Pet dagannoth rex"
+        },
+        {
+            id: 13225,
+            itemName: "Tzrek-jad"
+        },
+        {
+            id: 12650,
+            itemName: "Pet general graardor"
+        },
+        {
+            id: 12646,
+            itemName: "Baby mole"
+        },
+        {
+            id: 21748,
+            itemName: "Noon"
+        },
+        {
+            id: 21291,
+            itemName: "Jal-nib-rek"
+        },
+        {
+            id: 12647,
+            itemName: "Kalphite princess"
+        },
+        {
+            id: 12653,
+            itemName: "Prince black dragon"
+        },
+        {
+            id: 12655,
+            itemName: "Pet kraken"
+        },
+        {
+            id: 12649,
+            itemName: "Pet kree'arra"
+        },
+        {
+            id: 12652,
+            itemName: "Pet k'ril tsutsaroth"
+        },
+        {
+            id: 13181,
+            itemName: "Scorpia's offspring"
+        },
+        {
+            id: 21273,
+            itemName: "Skotos"
+        },
+        {
+            id: 12648,
+            itemName: "Pet smoke devil"
+        },
+        {
+            id: 13177,
+            itemName: "Venenatis spiderling"
+        },
+        {
+            id: 13179,
+            itemName: "Vet'ion jr."
+        },
+        {
+            id: 21992,
+            itemName: "Vorki"
+        },
+        {
+            id: 20693,
+            itemName: "Phoenix"
+        },
+        {
+            id: 12921,
+            itemName: "Pet snakeling"
+        },
+        {
+            id: 20851,
+            itemName: "Olmlet"
+        },
+        {
+            id: 22473,
+            itemName: "Lil' zik"
+        },
+        {
+            id: 19730,
+            itemName: "Bloodhound"
+        },
+        {
+            id: 12703,
+            itemName: "Pet penance queen"
+        },
+        {
+            id: 13320,
+            itemName: "Heron"
+        },
+        {
+            id: 13321,
+            itemName: "Rock golem"
+        },
+        {
+            id: 13322,
+            itemName: "Beaver"
+        },
+        {
+            id: 13323,
+            itemName: "Baby chinchompa"
+        },
+        {
+            id: 20659,
+            itemName: "Giant squirrel"
+        },
+        {
+            id: 20661,
+            itemName: "Tangleroot"
+        },
+        {
+            id: 20663,
+            itemName: "Rocky"
+        },
+        {
+            id: 20665,
+            itemName: "Rift guardian"
+        },
+        {
+            id: 21509,
+            itemName: "Herbi"
+        },
+        {
+            id: 13071,
+            itemName: "Chompy chick"
+        },
+        {
+            id: 23495,
+            itemName: "Sraracha"
+        },
+        {
+            id: 23760,
+            itemName: "Smolcano"
+        },
+        {
+            id: 23757,
+            itemName: "Youngllef"
+        }
+      ]
+    },
+    {
+        name: "Champion's Challenge",
+        items: [
+        {
+            id: 6798,
+            itemName: "Earth warrior champion scroll"
+        },
+        {
+            id: 6799,
+            itemName: "Ghoul champion scroll"
+        },
+        {
+            id: 6800,
+            itemName: "Giant champion scroll"
+        },
+        {
+            id: 6801,
+            itemName: "Goblin champion scroll"
+        },
+        {
+            id: 6802,
+            itemName: "Hobgoblin champion scroll"
+        },
+        {
+            id: 6803,
+            itemName: "Imp champion scroll"
+        },
+        {
+            id: 6804,
+            itemName: "Jogre champion scroll"
+        },
+        {
+            id: 6805,
+            itemName: "Lesser demon champion scroll"
+        },
+        {
+            id: 6806,
+            itemName: "Skeleton champion scroll"
+        },
+        {
+            id: 6807,
+            itemName: "Zombie champion scroll"
+        },
+        {
+            id: 21439,
+            itemName: "Champion's cape"
+        }
+      ]
+    },
+    {
+        name: "Chaos Druids",
+        items: [
+        {
+            id: 20517,
+            itemName: "Elder chaos top"
+        },
+        {
+            id: 20520,
+            itemName: "Elder chaos robe"
+        },
+        {
+            id: 20595,
+            itemName: "Elder chaos hood"
+        }
+      ]
+    },
+    {
+        name: "Chompy Birds",
+        items: [
+        {
+            id: 13071,
+            itemName: "Chompy chick"
+        },
+        {
+            id: 2978,
+            itemName: "Chompy bird hat (ogre bowman)"
+        },
+        {
+            id: 2979,
+            itemName: "Chompy bird hat (bowman)"
+        },
+        {
+            id: 2980,
+            itemName: "Chompy bird hat (ogre yeoman)"
+        },
+        {
+            id: 2981,
+            itemName: "Chompy bird hat (yeoman)"
+        },
+        {
+            id: 2982,
+            itemName: "Chompy bird hat (ogre marksman)"
+        },
+        {
+            id: 2983,
+            itemName: "Chompy bird hat (marksman)"
+        },
+        {
+            id: 2984,
+            itemName: "Chompy bird hat (ogre woodsman)"
+        },
+        {
+            id: 2985,
+            itemName: "Chompy bird hat (woodsman)"
+        },
+        {
+            id: 2986,
+            itemName: "Chompy bird hat (ogre forester)"
+        },
+        {
+            id: 2987,
+            itemName: "Chompy bird hat (forester)"
+        },
+        {
+            id: 2988,
+            itemName: "Chompy bird hat (ogre bowmaster)"
+        },
+        {
+            id: 2989,
+            itemName: "Chompy bird hat (bowmaster)"
+        },
+        {
+            id: 2990,
+            itemName: "Chompy bird hat (ogre expert)"
+        },
+        {
+            id: 2991,
+            itemName: "Chompy bird hat (expert)"
+        },
+        {
+            id: 2992,
+            itemName: "Chompy bird hat (ogre dragon archer)"
+        },
+        {
+            id: 2993,
+            itemName: "Chompy bird hat (dragon archer)"
+        },
+        {
+            id: 2994,
+            itemName: "Chompy bird hat (expert ogre dragon archer)"
+        },
+        {
+            id: 2995,
+            itemName: "Chompy bird hat (expert dragon archer)"
+        }
+      ]
+    },
+    {
+        name: "Creature Creation",
+        items: [
+        {
+            id: 10859,
+            itemName: "Tea flask"
+        },
+        {
+            id: 10877,
+            itemName: "Plain satchel"
+        },
+        {
+            id: 10878,
+            itemName: "Green satchel"
+        },
+        {
+            id: 10879,
+            itemName: "Red satchel"
+        },
+        {
+            id: 10880,
+            itemName: "Black satchel"
+        },
+        {
+            id: 10881,
+            itemName: "Gold satchel"
+        },
+        {
+            id: 10882,
+            itemName: "Rune satchel"
+        }
+      ]
+    },
+    {
+        name: "Cyclopes",
+        items: [
+        {
+            id: 8844,
+            itemName: "Bronze defender"
+        },
+        {
+            id: 8845,
+            itemName: "Iron defender"
+        },
+        {
+            id: 8846,
+            itemName: "Steel defender"
+        },
+        {
+            id: 8847,
+            itemName: "Black defender"
+        },
+        {
+            id: 8848,
+            itemName: "Mithril defender"
+        },
+        {
+            id: 8849,
+            itemName: "Adamant defender"
+        },
+        {
+            id: 8850,
+            itemName: "Rune defender"
+        },
+        {
+            id: 12954,
+            itemName: "Dragon defender"
+        }
+      ]
+    },
+    {
+        name: "Fossil Island Notes",
+        items: [
+        {
+            id: 21664,
+            itemName: "Scribbled note"
+        },
+        {
+            id: 21666,
+            itemName: "Partial note"
+        },
+        {
+            id: 21668,
+            itemName: "Ancient note"
+        },
+        {
+            id: 21670,
+            itemName: "Ancient writings"
+        },
+        {
+            id: 21672,
+            itemName: "Experimental note"
+        },
+        {
+            id: 21674,
+            itemName: "Paragraph of text"
+        },
+        {
+            id: 21676,
+            itemName: "Musty smelling note"
+        },
+        {
+            id: 21678,
+            itemName: "Hastily scrawled note"
+        },
+        {
+            id: 21680,
+            itemName: "Old writing"
+        },
+        {
+            id: 21682,
+            itemName: "Short note"
+        }
+      ]
+    },
+    {
+        name: "Glough's Experiments",
+        items: [
+        {
+            id: 19529,
+            itemName: "Zenyte shard"
+        },
+        {
+            id: 19586,
+            itemName: "Light frame"
+        },
+        {
+            id: 19589,
+            itemName: "Heavy frame"
+        },
+        {
+            id: 19592,
+            itemName: "Ballista limbs"
+        },
+        {
+            id: 19610,
+            itemName: "Monkey tail"
+        },
+        {
+            id: 19601,
+            itemName: "Ballista spring"
+        }
+      ]
+    },
+    {
+        name: "Motherlode Mine",
+        items: [
+        {
+            id: 764,
+            itemName: "Coal bag"
+        },
+        {
+            id: 766,
+            itemName: "Gem bag"
+        },
+        {
+            id: 12013,
+            itemName: "Prospector helmet"
+        },
+        {
+            id: 12014,
+            itemName: "Prospector jacket"
+        },
+        {
+            id: 12015,
+            itemName: "Prospector legs"
+        },
+        {
+            id: 12016,
+            itemName: "Prospector boots"
+        }
+      ]
+    },
+    {
+        name: "My Notes",
+        items: [
+        {
+            id: 11341,
+            itemName: "Ancient page number 1"
+        },
+        {
+            id: 11342,
+            itemName: "Ancient page number 2"
+        },
+        {
+            id: 11343,
+            itemName: "Ancient page number 3"
+        },
+        {
+            id: 11344,
+            itemName: "Ancient page number 4"
+        },
+        {
+            id: 11345,
+            itemName: "Ancient page number 5"
+        },
+        {
+            id: 11346,
+            itemName: "Ancient page number 6"
+        },
+        {
+            id: 11347,
+            itemName: "Ancient page number 7"
+        },
+        {
+            id: 11348,
+            itemName: "Ancient page number 8"
+        },
+        {
+            id: 11349,
+            itemName: "Ancient page number 9"
+        },
+        {
+            id: 11350,
+            itemName: "Ancient page number 10"
+        },
+        {
+            id: 11351,
+            itemName: "Ancient page number 11"
+        },
+        {
+            id: 11352,
+            itemName: "Ancient page number 12"
+        },
+        {
+            id: 11353,
+            itemName: "Ancient page number 13"
+        },
+        {
+            id: 11354,
+            itemName: "Ancient page number 14"
+        },
+        {
+            id: 11355,
+            itemName: "Ancient page number 15"
+        },
+        {
+            id: 11356,
+            itemName: "Ancient page number 16"
+        },
+        {
+            id: 11357,
+            itemName: "Ancient page number 17"
+        },
+        {
+            id: 11358,
+            itemName: "Ancient page number 18"
+        },
+        {
+            id: 11359,
+            itemName: "Ancient page number 19"
+        },
+        {
+            id: 11360,
+            itemName: "Ancient page number 20"
+        },
+        {
+            id: 11361,
+            itemName: "Ancient page number 21"
+        },
+        {
+            id: 11362,
+            itemName: "Ancient page number 22"
+        },
+        {
+            id: 11363,
+            itemName: "Ancient page number 23"
+        },
+        {
+            id: 11364,
+            itemName: "Ancient page number 24"
+        },
+        {
+            id: 11365,
+            itemName: "Ancient page number 25"
+        },
+        {
+            id: 11366,
+            itemName: "Ancient page number 26"
+        }
+      ]
+    },
+    {
+        name: "Random Events",
+        items: [
+        {
+            id: 6654,
+            itemName: "Camo top"
+        },
+        {
+            id: 6655,
+            itemName: "Camo bottoms"
+        },
+        {
+            id: 6656,
+            itemName: "Camo helmet"
+        },
+        {
+            id: 6180,
+            itemName: "Lederhosen top"
+        },
+        {
+            id: 6181,
+            itemName: "Lederhosen shorts"
+        },
+        {
+            id: 6182,
+            itemName: "Lederhosen hat"
+        },
+        {
+            id: 7592,
+            itemName: "Zombie shirt"
+        },
+        {
+            id: 7593,
+            itemName: "Zombie trousers"
+        },
+        {
+            id: 7594,
+            itemName: "Zombie mask"
+        },
+        {
+            id: 7595,
+            itemName: "Zombie gloves"
+        },
+        {
+            id: 7596,
+            itemName: "Zombie boots"
+        },
+        {
+            id: 3057,
+            itemName: "Mime mask"
+        },
+        {
+            id: 3058,
+            itemName: "Mime top"
+        },
+        {
+            id: 3059,
+            itemName: "Mime legs"
+        },
+        {
+            id: 3060,
+            itemName: "Mime gloves"
+        },
+        {
+            id: 3061,
+            itemName: "Mime boots"
+        },
+        {
+            id: 6183,
+            itemName: "Frog token"
+        },
+        {
+            id: 20590,
+            itemName: "Stale baguette"
+        }
+      ]
+    },
+    {
+        name: "Revenants",
+        items: [
+        {
+            id: 22542,
+            itemName: "Viggora's chainmace (u)"
+        },
+        {
+            id: 22547,
+            itemName: "Craw's bow (u)"
+        },
+        {
+            id: 22552,
+            itemName: "Thammaron's sceptre (u)"
+        },
+        {
+            id: 22557,
+            itemName: "Amulet of avarice"
+        },
+        {
+            id: 21817,
+            itemName: "Bracelet of ethereum (uncharged)"
+        },
+        {
+            id: 21804,
+            itemName: "Ancient crystal"
+        },
+        {
+            id: 22305,
+            itemName: "Ancient relic"
+        },
+        {
+            id: 22302,
+            itemName: "Ancient effigy"
+        },
+        {
+            id: 22299,
+            itemName: "Ancient medallion"
+        },
+        {
+            id: 21813,
+            itemName: "Ancient statuette"
+        },
+        {
+            id: 21810,
+            itemName: "Ancient totem"
+        },
+        {
+            id: 21807,
+            itemName: "Ancient emblem"
+        },
+        {
+            id: 21802,
+            itemName: "Revenant cave teleport"
+        },
+        {
+            id: 21820,
+            itemName: "Revenant ether"
+        }
+      ]
+    },
+    {
+        name: "Rooftop Agility", // add rest of gracefull sets
+        items: [
+        {
+            id: 11850,
+            itemName: "Graceful hood"
+        },
+        {
+            id: 11852,
+            itemName: "Graceful cape"
+        },
+        {
+            id: 11854,
+            itemName: "Graceful top"
+        },
+        {
+            id: 11856,
+            itemName: "Graceful legs"
+        },
+        {
+            id: 11858,
+            itemName: "Graceful gloves"
+        },
+        {
+            id: 11860,
+            itemName: "Graceful boots"
+        }
+      ]
+    },
+    {
+        name: "Shayzien Armour",
+        items: [
+        {
+            id: 13357,
+            itemName: "Shayzien gloves (1)"
+        },
+        {
+            id: 13358,
+            itemName: "Shayzien boots (1)"
+        },
+        {
+            id: 13359,
+            itemName: "Shayzien helm (1)"
+        },
+        {
+            id: 13360,
+            itemName: "Shayzien greaves (1)"
+        },
+        {
+            id: 13361,
+            itemName: "Shayzien platebody (1)"
+        },
+        {
+            id: 13362,
+            itemName: "Shayzien gloves (2)"
+        },
+        {
+            id: 13363,
+            itemName: "Shayzien boots (2)"
+        },
+        {
+            id: 13364,
+            itemName: "Shayzien helm (2)"
+        },
+        {
+            id: 13365,
+            itemName: "Shayzien greaves (2)"
+        },
+        {
+            id: 13366,
+            itemName: "Shayzien platebody (2)"
+        },
+        {
+            id: 13367,
+            itemName: "Shayzien gloves (3)"
+        },
+        {
+            id: 13368,
+            itemName: "Shayzien boots (3)"
+        },
+        {
+            id: 13369,
+            itemName: "Shayzien helm (3)"
+        },
+        {
+            id: 13370,
+            itemName: "Shayzien greaves (3)"
+        },
+        {
+            id: 13371,
+            itemName: "Shayzien platebody (3)"
+        },
+        {
+            id: 13372,
+            itemName: "Shayzien gloves (4)"
+        },
+        {
+            id: 13373,
+            itemName: "Shayzien boots (4)"
+        },
+        {
+            id: 13374,
+            itemName: "Shayzien helm (4)"
+        },
+        {
+            id: 13375,
+            itemName: "Shayzien greaves (4)"
+        },
+        {
+            id: 13376,
+            itemName: "Shayzien platebody (4)"
+        },
+        {
+            id: 13357,
+            itemName: "Shayzien gloves (1)"
+        },
+        {
+            id: 13378,
+            itemName: "Shayzien boots (5)"
+        },
+        {
+            id: 13379,
+            itemName: "Shayzien helm (5)"
+        },
+        {
+            id: 13380,
+            itemName: "Shayzien greaves (5)"
+        },
+        {
+            id: 13381,
+            itemName: "Shayzien platebody (5)"
+        }
+      ]
+    },
+    {
+        name: "Skilling Pets",
+        items: [
+        {
+            id: 13320,
+            itemName: "Heron"
+        },
+        {
+            id: 13321,
+            itemName: "Rock golem"
+        },
+        {
+            id: 13322,
+            itemName: "Beaver"
+        },
+        {
+            id: 13323,
+            itemName: "Baby chinchompa"
+        },
+        {
+            id: 20659,
+            itemName: "Giant squirrel"
+        },
+        {
+            id: 20661,
+            itemName: "Tangleroot"
+        },
+        {
+            id: 20663,
+            itemName: "Rocky"
+        },
+        {
+            id: 20665,
+            itemName: "Rift guardian"
+        }
+      ]
+    },
+    {
+        name: "Slayer",
+        items: [
+        {
+            id: 4133,
+            itemName: "Crawling hand"
+        },
+        {
+            id: 7976,
+            itemName: "Cockatrice head"
+        },
+        {
+            id: 7977,
+            itemName: "Basilisk head"
+        },
+        {
+            id: 7978,
+            itemName: "Kurask head"
+        },
+        {
+            id: 7979,
+            itemName: "Abyssal head"
+        },
+        {
+            id: 20724,
+            itemName: "Imbued heart"
+        },
+        {
+            id: 21270,
+            itemName: "Eternal gem"
+        },
+        {
+            id: 20736,
+            itemName: "Dust battlestaff"
+        },
+        {
+            id: 20730,
+            itemName: "Mist battlestaff"
+        },
+        {
+            id: 4151,
+            itemName: "Abyssal whip"
+        },
+        {
+            id: 4153,
+            itemName: "Granite maul"
+        },
+        {
+            id: 6665,
+            itemName: "Mudskipper hat"
+        },
+        {
+            id: 6666,
+            itemName: "Flippers"
+        },
+        {
+            id: 11037,
+            itemName: "Brine sabre"
+        },
+        {
+            id: 11902,
+            itemName: "Leaf-bladed sword"
+        },
+        {
+            id: 20727,
+            itemName: "Leaf-bladed battleaxe"
+        },
+        {
+            id: 8901,
+            itemName: "Black mask (10)"
+        },
+        {
+            id: 21646,
+            itemName: "Granite longsword"
+        },
+        {
+            id: 21643,
+            itemName: "Granite boots"
+        },
+        {
+            id: 21637,
+            itemName: "Wyvern visage"
+        },
+        {
+            id: 6809,
+            itemName: "Granite legs"
+        },
+        {
+            id: 10589,
+            itemName: "Granite helm"
+        },
+        {
+            id: 11286,
+            itemName: "Draconic visage"
+        },
+        {
+            id: 4119,
+            itemName: "Bronze boots"
+        },
+        {
+            id: 4121,
+            itemName: "Iron boots"
+        },
+        {
+            id: 4123,
+            itemName: "Steel boots"
+        },
+        {
+            id: 4125,
+            itemName: "Black boots"
+        },
+        {
+            id: 4127,
+            itemName: "Mithril boots"
+        },
+        {
+            id: 4129,
+            itemName: "Adamant boots"
+        },
+        {
+            id: 4131,
+            itemName: "Rune boots"
+        },
+        {
+            id: 11840,
+            itemName: "Dragon boots"
+        },
+        {
+            id: 13265,
+            itemName: "Abyssal dagger"
+        },
+        {
+            id: 11908,
+            itemName: "Uncharged trident"
+        },
+        {
+            id: 12004,
+            itemName: "Kraken tentacle"
+        },
+        {
+            id: 11235,
+            itemName: "Dark bow"
+        },
+        {
+            id: 12002,
+            itemName: "Occult necklace"
+        },
+        {
+            id: 2513,
+            itemName: "Dragon chainbody"
+        },
+        {
+            id: 20849,
+            itemName: "Dragon thrownaxe"
+        },
+        {
+            id: 21028,
+            itemName: "Dragon harpoon"
+        },
+        {
+            id: 21009,
+            itemName: "Dragon sword"
+        },
+        {
+            id: 22804,
+            itemName: "Dragon knife"
+        },
+        {
+            id: 22963,
+            itemName: "Broken dragon hasta"
+        },
+        {
+            id: 22960,
+            itemName: "Drake's tooth"
+        },
+        {
+            id: 22957,
+            itemName: "Drake's claw"
+        },
+        {
+            id: 22988,
+            itemName: "Hydra tail"
+        },
+        {
+            id: 22971,
+            itemName: "Hydra's fang"
+        },
+        {
+            id: 22973,
+            itemName: "Hydra's eye"
+        },
+        {
+            id: 22969,
+            itemName: "Hydra's heart"
+        },
+        {
+            id: 4109,
+            itemName: "Mystic hat (light)"
+        },
+        {
+            id: 4111,
+            itemName: "Mystic robe top (light)"
+        },
+        {
+            id: 4113,
+            itemName: "Mystic robe bottom (light)"
+        },
+        {
+            id: 4115,
+            itemName: "Mystic gloves (light)"
+        },
+        {
+            id: 4117,
+            itemName: "Mystic boots (light)"
+        },
+        {
+            id: 4099,
+            itemName: "Mystic hat (dark)"
+        },
+        {
+            id: 4101,
+            itemName: "Mystic robe top (dark)"
+        },
+        {
+            id: 4103,
+            itemName: "Mystic robe bottom (dark)"
+        },
+        {
+            id: 4105,
+            itemName: "Mystic gloves (dark)"
+        },
+        {
+            id: 4107,
+            itemName: "Mystic boots (dark)"
+        },
+        {
+            id: 23047,
+            itemName: "Mystic hat (dusk)"
+        },
+        {
+            id: 23050,
+            itemName: "Mystic robe top (dusk)"
+        },
+        {
+            id: 23053,
+            itemName: "Mystic robe bottom (dusk)"
+        },
+        {
+            id: 23056,
+            itemName: "Mystic gloves (dusk)"
+        },
+        {
+            id: 23059,
+            itemName: "Mystic boots (dusk)"
+        },
+        {
+            id: 24268,
+            itemName: "Basilisk jaw"
+        }
+      ]
+    },
+    {
+        name: "TzHaar",
+        items: [
+        {
+            id: 6568,
+            itemName: "Obsidian cape"
+        },
+        {
+            id: 6524,
+            itemName: "Toktz-ket-xil"
+        },
+        {
+            id: 6528,
+            itemName: "Tzhaar-ket-om"
+        },
+        {
+            id: 6523,
+            itemName: "Toktz-xil-ak"
+        },
+        {
+            id: 6525,
+            itemName: "Toktz-xil-ek"
+        },
+        {
+            id: 6526,
+            itemName: "Toktz-mej-tal"
+        },
+        {
+            id: 6522,
+            itemName: "Toktz-xil-ul"
+        },
+        {
+            id: 21298,
+            itemName: "Obsidian helmet"
+        },
+        {
+            id: 21301,
+            itemName: "Obsidian platebody"
+        },
+        {
+            id: 21304,
+            itemName: "Obsidian platelegs"
+        }
+      ]
+    },
+    {
+        name: "Miscellaneous",
+        items: [
+        {
+            id: 21509,
+            itemName: "Herbi"
+        },
+        {
+            id: 13071,
+            itemName: "Chompy chick"
+        },
+        {
+            id: 13576,
+            itemName: "Dragon warhammer"
+        },
+        {
+            id: 7991,
+            itemName: "Big swordfish"
+        },
+        {
+            id: 7993,
+            itemName: "Big shark"
+        },
+        {
+            id: 7989,
+            itemName: "Big bass"
+        },
+        {
+            id: 10976,
+            itemName: "Long bone"
+        },
+        {
+            id: 10977,
+            itemName: "Curved bone"
+        },
+        {
+            id: 11942,
+            itemName: "Ecumenical key"
+        },
+        {
+            id: 9044,
+            itemName: "Pharaoh's sceptre (3)"
+        },
+        {
+            id: 19679,
+            itemName: "Dark totem base"
+        },
+        {
+            id: 19681,
+            itemName: "Dark totem middle"
+        },
+        {
+            id: 19683,
+            itemName: "Dark totem top"
+        },
+        {
+            id: 11338,
+            itemName: "Chewed bones"
+        },
+        {
+            id: 11335,
+            itemName: "Dragon full helm"
+        },
+        {
+            id: 2366,
+            itemName: "Shield left half"
+        },
+        {
+            id: 22100,
+            itemName: "Dragon metal slice"
+        },
+        {
+            id: 22103,
+            itemName: "Dragon metal lump"
+        },
+        {
+            id: 21918,
+            itemName: "Dragon limbs"
+        },
+        {
+            id: 1249,
+            itemName: "Dragon spear"
+        },
+        {
+            id: 19707,
+            itemName: "Amulet of eternal glory"
+        },
+        {
+            id: 2997,
+            itemName: "Pirate's hook"
+        },
+        {
+            id: 21838,
+            itemName: "Shaman mask"
+        },
+        {
+            id: 20439,
+            itemName: "Evil chicken head"
+        },
+        {
+            id: 20436,
+            itemName: "Evil chicken wings"
+        },
+        {
+            id: 20442,
+            itemName: "Evil chicken legs"
+        },
+        {
+            id: 20433,
+            itemName: "Evil chicken feet"
+        },
+        {
+            id: 21343,
+            itemName: "Mining gloves"
+        },
+        {
+            id: 21345,
+            itemName: "Superior mining gloves"
+        },
+        {
+            id: 21392,
+            itemName: "Expert mining gloves"
+        },
+        {
+            id: 9007,
+            itemName: "Right skull half"
+        },
+        {
+            id: 9008,
+            itemName: "Left skull half"
+        },
+        {
+            id: 9010,
+            itemName: "Top of sceptre"
+        },
+        {
+            id: 9011,
+            itemName: "Bottom of sceptre"
+        },
+        {
+            id: 22374,
+            itemName: "Mossy key"
+        },
+        {
+            id: 20754,
+            itemName: "Giant key"
+        },
+        {
+            id: 22875,
+            itemName: "Hespori seed"
+        },
+        {
+            id: 7536,
+            itemName: "Fresh crab claw"
+        },
+        {
+            id: 7538,
+            itemName: "Fresh crab shell"
+        },
+        {
+            id: 13392,
+            itemName: "Xeric's talisman (inert)"
+        },
+        {
+            id: 23522,
+            itemName: "Mask of ranul"
+        },
+        {
+            id: 23943,
+            itemName: "Elven signet"
+        },
+        {
+            id: 24000,
+            itemName: "Crystal grail"
+        },
+        {
+            id: 23959,
+            itemName: "Enhanced crystal teleport seed"
+        },
+        {
+            id: 24034,
+            itemName: "Dragonstone full helm"
+        },
+        {
+            id: 24037,
+            itemName: "Dragonstone platebody"
+        },
+        {
+            id: 24040,
+            itemName: "Dragonstone platelegs"
+        },
+        {
+            id: 24046,
+            itemName: "Dragonstone gauntlets"
+        },
+        {
+            id: 24043,
+            itemName: "Dragonstone boots"
+        },
+        {
+            id: 6571,
+            itemName: "Uncut onyx"
+        }
+      ]
+    }
+  ]
+}

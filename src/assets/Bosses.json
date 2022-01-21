@@ -1,0 +1,1004 @@
+{
+    name: "Bosses",
+    subCategories: [
+        {
+            name: "Abyssal Sire",
+            items: [
+                {
+                    id: 13262,
+                    itemName: "Abyssal orphan"
+                },
+                {
+                    id: 13273,
+                    itemName: "Unsired"
+                },
+                {
+                    id: 7979,
+                    itemName: "Abyssal head"
+                },
+                {
+                    id: 13274,
+                    itemName: "Bludgeon spine"
+                },
+                {
+                    id: 13275,
+                    itemName: "Bludgeon claw"
+                },
+                {
+                    id: 13276,
+                    itemName: "Bludgeon axon"
+                },
+                {
+                    id: 13277,
+                    itemName: "Jar of miasma"
+                },
+                {
+                    id: 13265,
+                    itemName: "Abyssal dagger"
+                },
+                {
+                    id: 4151,
+                    itemName: "Abyssal whip"
+                }
+            ]
+        },
+        {
+            name: "Alchemical Hydra",
+            items: [
+                {
+                    id: 22746,
+                    itemName: "Ikkle hydra"
+                },
+                {
+                    id: 22966,
+                    itemName: "Hydra's claw"
+                },
+                {
+                    id: 22988,
+                    itemName: "Hydra tail"
+                },
+                {
+                    id: 22983,
+                    itemName: "Hydra leather"
+                },
+                {
+                    id: 22971,
+                    itemName: "Hydra's fang"
+                },
+                {
+                    id: 22973,
+                    itemName: "Hydra's eye"
+                },
+                {
+                    id: 22969,
+                    itemName: "Hydra's heart"
+                },
+                {
+                    id: 22804,
+                    itemName: "Dragon knife"
+                },
+                {
+                    id: 20849,
+                    itemName: "Dragon thrownaxe"
+                },
+                {
+                    id: 23064,
+                    itemName: "Jar of chemicals"
+                },
+                {
+                    id: 23077,
+                    itemName: "Alchemical hydra heads"
+                }
+            ]
+        },
+        {
+            name: "Barrows Chests",
+            items: [
+                {
+                    id: 4732,
+                    itemName: "Karil's coif"
+                },
+                {
+                    id: 4736,
+                    itemName: "Karil's leathertop"
+                },
+                {
+                    id: 4738,
+                    itemName: "Karil's leatherskirt"
+                },
+                {
+                    id: 4734,
+                    itemName: "Karil's crossbow"
+                },
+                {
+                    id: 4708,
+                    itemName: "Ahrim's hood"
+                },
+                {
+                    id: 4712,
+                    itemName: "Ahrim's robetop"
+                },
+                {
+                    id: 4714,
+                    itemName: "Ahrim's robeskirt"
+                },
+                {
+                    id: 4710,
+                    itemName: "Ahrim's staff"
+                },
+                {
+                    id: 4716,
+                    itemName: "Dharok's helm"
+                },
+                {
+                    id: 4720,
+                    itemName: "Dharok's platebody"
+                },
+                {
+                    id: 4722,
+                    itemName: "Dharok's platelegs"
+                },
+                {
+                    id: 4718,
+                    itemName: "Dharok's greataxe"
+                },
+                {
+                    id: 4724,
+                    itemName: "Guthan's helm"
+                },
+                {
+                    id: 4728,
+                    itemName: "Guthan's platebody"
+                },
+                {
+                    id: 4730,
+                    itemName: "Guthan's chainskirt"
+                },
+                {
+                    id: 4726,
+                    itemName: "Guthan's warspear"
+                },
+                {
+                    id: 4745,
+                    itemName: "Torag's helm"
+                },
+                {
+                    id: 4749,
+                    itemName: "Torag's platebody"
+                },
+                {
+                    id: 4751,
+                    itemName: "Torag's platelegs"
+                },
+                {
+                    id: 4747,
+                    itemName: "Torag's hammers"
+                },
+                {
+                    id: 4753,
+                    itemName: "Verac's helm"
+                },
+                {
+                    id: 4757,
+                    itemName: "Verac's brassard"
+                },
+                {
+                    id: 4759,
+                    itemName: "Verac's plateskirt"
+                },
+                {
+                    id: 4755,
+                    itemName: "Verac's flail"
+                },
+                {
+                    id: 4740,
+                    itemName: "Bolt rack"
+                }
+            ]
+        },
+        {
+            name: "Bryophyta",
+            items: [
+                {
+                id: 22372,
+                itemName: "Bryophyta's essence"
+                }
+            ]
+        },
+        {
+            name: "Callisto",
+            items: [
+                {
+                    id: 13178,
+                    itemName: "Callisto cub"
+                },
+                {
+                    id: 12603,
+                    itemName: "Tyrannical ring"
+                },
+                {
+                    id: 11920,
+                    itemName: "Dragon pickaxe"
+                },
+                {
+                    id: 7158,
+                    itemName: "Dragon 2h sword"
+                }
+            ]
+        },
+        {
+            name: "Cerberus",
+            items: [
+                {
+                    id: 13247,
+                    itemName: "Hellpuppy"
+                },
+                {
+                    id: 13227,
+                    itemName: "Eternal crystal"
+                },
+                {
+                    id: 13229,
+                    itemName: "Pegasian crystal"
+                },
+                {
+                    id: 13231,
+                    itemName: "Primordial crystal"
+                },
+                {
+                    id: 13245,
+                    itemName: "Jar of souls"
+                },
+                {
+                    id: 13233,
+                    itemName: "Smouldering stone"
+                },
+                {
+                    id: 13249,
+                    itemName: "Key master teleport"
+                }
+            ]
+        },
+        {
+            name: "Chaos Elemental",
+            items: [
+                {
+                    id: 11995,
+                    itemName: "Pet chaos elemental"
+                },
+                {
+                    id: 11920,
+                    itemName: "Dragon pickaxe"
+                },
+                {
+                    id: 7158,
+                    itemName: "Dragon 2h sword"
+                }
+            ]
+        },
+        {
+            name: "Chaos Fanatic",
+            items: [
+                {
+                    id: 11995,
+                    itemName: "Pet chaos elemental"
+                },
+                {
+                    id: 11928,
+                    itemName: "Odium shard 1"
+                },
+                {
+                    id: 11931,
+                    itemName: "Malediction shard 1"
+                }
+            ]
+        },
+        {
+            name: "Commander Zilyana",
+            items: [
+                {
+                    id: 12651,
+                    itemName: "Pet zilyana"
+                },
+                {
+                    id: 11785,
+                    itemName: "Armadyl crossbow"
+                },
+                {
+                    id: 11814,
+                    itemName: "Saradomin hilt"
+                },
+                {
+                    id: 11838,
+                    itemName: "Saradomin sword"
+                },
+                {
+                    id: 13256,
+                    itemName: "Saradomin's light"
+                },
+                {
+                    id: 11818,
+                    itemName: "Godsword shard 1"
+                },
+                {
+                    id: 11820,
+                    itemName: "Godsword shard 2"
+                },
+                {
+                    id: 11822,
+                    itemName: "Godsword shard 3"
+                }
+            ]
+        },
+        {
+            name: "Corporeal Beast",
+            items: [
+                {
+                    id: 12816,
+                    itemName: "Pet dark core"
+                },
+                {
+                    id: 12819,
+                    itemName: "Elysian sigil"
+                },
+                {
+                    id: 12823,
+                    itemName: "Spectral sigil"
+                },
+                {
+                    id: 12827,
+                    itemName: "Arcane sigil"
+                },
+                {
+                    id: 12833,
+                    itemName: "Holy elixir"
+                },
+                {
+                    id: 12829,
+                    itemName: "Spirit shield"
+                }
+            ]
+        },
+        {
+            name: "Crazy archaeologist",
+            items: [
+                {
+                    id: 11929,
+                    itemName: "Odium shard 2"
+                },
+                {
+                    id: 11932,
+                    itemName: "Malediction shard 2"
+                },
+                {
+                    id: 11990,
+                    itemName: "Fedora"
+                }
+            ]
+        },
+        {
+            name: "Dagannoth Kings",
+            items: [
+                {
+                    id: 12644,
+                    itemName: "Pet dagannoth prime"
+                },
+                {
+                    id: 12643,
+                    itemName: "Pet dagannoth supreme"
+                },
+                {
+                    id: 12645,
+                    itemName: "Pet dagannoth rex"
+                },
+                {
+                    id: 6737,
+                    itemName: "Berserker ring"
+                },
+                {
+                    id: 6733,
+                    itemName: "Archers ring"
+                },
+                {
+                    id: 6731,
+                    itemName: "Seers ring"
+                },
+                {
+                    id: 6735,
+                    itemName: "Warrior ring"
+                },
+                {
+                    id: 6739,
+                    itemName: "Dragon axe"
+                },
+                {
+                    id: 6724,
+                    itemName: "Seercull"
+                },
+                {
+                    id: 6562,
+                    itemName: "Mud battlestaff"
+                }
+            ]
+        },
+        {
+            name: "The Fight Caves",
+            items: [
+                {
+                    id: 13225,
+                    itemName: "Tzrek-jad"
+                },
+                {
+                    id: 6570,
+                    itemName: "Fire cape"
+                }
+            ]
+        },
+        {
+            name: "The Gauntlet",
+            items: [
+                {
+                    id: 23757,
+                    itemName: "Youngllef"
+                },
+                {
+                    id: 23956,
+                    itemName: "Crystal armour seed"
+                },
+                {
+                    id: 4207,
+                    itemName: "Crystal weapon seed"
+                },
+                {
+                    id: 23997,
+                    itemName: "Blade of saeldor (inactive)"
+                },
+                {
+                    id: 23859,
+                    itemName: "Gauntlet cape"
+                }
+            ]
+        },
+        {
+            name: "General Graardor",
+            items: [
+                {
+                    id: 12650,
+                    itemName: "Pet general graardor"
+                },
+                {
+                    id: 11832,
+                    itemName: "Bandos chestplate"
+                },
+                {
+                    id: 11834,
+                    itemName: "Bandos tassets"
+                },
+                {
+                    id: 11836,
+                    itemName: "Bandos boots"
+                },
+                {
+                    id: 11812,
+                    itemName: "Bandos hilt"
+                },
+                {
+                    id: 11818,
+                    itemName: "Godsword shard 1"
+                },
+                {
+                    id: 11820,
+                    itemName: "Godsword shard 2"
+                },
+                {
+                    id: 11822,
+                    itemName: "Godsword shard 3"
+                }
+            ]
+        },
+        {
+            name: "Giant Mole",
+            items: [
+                {
+                    id: 12646,
+                    itemName: "Baby mole"
+                },
+                {
+                    id: 7418,
+                    itemName: "Mole skin"
+                },
+                {
+                    id: 7416,
+                    itemName: "Mole claw"
+                }
+            ]
+        },
+        {
+            name: "Grotesque Guardians",
+            items: [
+                {
+                    id: 21748,
+                    itemName: "Noon"
+                },
+                {
+                    id: 21730,
+                    itemName: "Black tourmaline core"
+                },
+                {
+                    id: 21736,
+                    itemName: "Granite gloves"
+                },
+                {
+                    id: 21739,
+                    itemName: "Granite ring"
+                },
+                {
+                    id: 21742,
+                    itemName: "Granite hammer"
+                },
+                {
+                    id: 21745,
+                    itemName: "Jar of stone"
+                },
+                {
+                    id: 21726,
+                    itemName: "Granite dust"
+                }
+            ]
+        },
+        {
+            name: "Hespori",
+            items: [
+                {
+                    id: 22994,
+                    itemName: "Bottomless compost bucket"
+                },
+                {
+                    id: 22883,
+                    itemName: "Iasor seed"
+                },
+                {
+                    id: 22885,
+                    itemName: "Kronos seed"
+                },
+                {
+                    id: 22881,
+                    itemName: "Attas seed"
+                }
+            ]
+        },
+        {
+            name: "The Inferno",
+            items: [
+                {
+                    id: 21291,
+                    itemName: "Jal-nib-rek"
+                },
+                {
+                    id: 21295,
+                    itemName: "Infernal cape"
+                }
+            ]
+        },
+        {
+            name: "Kalphite Queen",
+            items: [
+                {
+                    id: 12647,
+                    itemName: "Kalphite princess"
+                },
+                {
+                    id: 7981,
+                    itemName: "Kq head"
+                },
+                {
+                    id: 12885,
+                    itemName: "Jar of sand"
+                },
+                {
+                    id: 7158,
+                    itemName: "Dragon 2h sword"
+                },
+                {
+                    id: 2513,
+                    itemName: "Dragon chainbody"
+                }
+            ]
+        },
+        {
+            name: "King Black Dragon",
+            items: [
+                {
+                    id: 12653,
+                    itemName: "Prince black dragon"
+                },
+                {
+                    id: 7980,
+                    itemName: "Kbd heads"
+                },
+                {
+                    id: 11920,
+                    itemName: "Dragon pickaxe"
+                },
+                {
+                    id: 11286,
+                    itemName: "Draconic visage"
+                }
+            ]
+        },
+        {
+            name: "Kraken",
+            items: [
+                {
+                    id: 12655,
+                    itemName: "Pet kraken"
+                },
+                {
+                    id: 12004,
+                    itemName: "Kraken tentacle"
+                },
+                {
+                    id: 11907,
+                    itemName: "Trident of the seas"
+                },
+                {
+                    id: 12007,
+                    itemName: "Jar of dirt"
+                }
+            ]
+        },
+        {
+            name: "Kree'arra",
+            items: [
+                {
+                    id: 12649,
+                    itemName: "Pet kree'arra"
+                },
+                {
+                    id: 11826,
+                    itemName: "Armadyl helmet"
+                },
+                {
+                    id: 11828,
+                    itemName: "Armadyl chestplate"
+                },
+                {
+                    id: 11830,
+                    itemName: "Armadyl chainskirt"
+                },
+                {
+                    id: 11810,
+                    itemName: "Armadyl hilt"
+                },
+                {
+                    id: 11818,
+                    itemName: "Godsword shard 1"
+                },
+                {
+                    id: 11820,
+                    itemName: "Godsword shard 2"
+                },
+                {
+                    id: 11822,
+                    itemName: "Godsword shard 3"
+                }
+            ]
+        },
+        {
+            name: "K'ril Tsutsaroth",
+            items: [
+                {
+                    id: 12652,
+                    itemName: "Pet k'ril tsutsaroth"
+                },
+                {
+                    id: 11791,
+                    itemName: "Staff of the dead"
+                },
+                {
+                    id: 11824,
+                    itemName: "Zamorakian spear"
+                },
+                {
+                    id: 11787,
+                    itemName: "Steam battlestaff"
+                },
+                {
+                    id: 11816,
+                    itemName: "Zamorak hilt"
+                },
+                {
+                    id: 11818,
+                    itemName: "Godsword shard 1"
+                },
+                {
+                    id: 11820,
+                    itemName: "Godsword shard 2"
+                },
+                {
+                    id: 11822,
+                    itemName: "Godsword shard 3"
+                }
+            ]
+        },
+        {
+            name: "Obor",
+            items: [
+                {
+                id: 20756,
+                itemName: "Hill giant club"
+                }
+            ]
+        },
+        {
+            name: "Sarachnis",
+            items: [
+                {
+                    id: 23495,
+                    itemName: "Sraracha"
+                },
+                {
+                    id: 23525,
+                    itemName: "Jar of eyes"
+                },
+                {
+                    id: 23517,
+                    itemName: "Giant egg sac(full)"
+                },
+                {
+                    id: 23528,
+                    itemName: "Sarachnis cudgel"
+                }
+            ]
+        },
+        {
+            name: "Scorpia",
+            items: [
+                {
+                    id: 13181,
+                    itemName: "Scorpia's offspring"
+                },
+                {
+                    id: 11930,
+                    itemName: "Odium shard 3"
+                },
+                {
+                    id: 11933,
+                    itemName: "Malediction shard 3"
+                }
+            ]
+        },
+        {
+            name: "Skotizo",
+            items: [
+                {
+                    id: 21273,
+                    itemName: "Skotos"
+                },
+                {
+                    id: 19701,
+                    itemName: "Jar of darkness"
+                },
+                {
+                    id: 21275,
+                    itemName: "Dark claw"
+                },
+                {
+                    id: 19685,
+                    itemName: "Dark totem"
+                },
+                {
+                    id: 6571,
+                    itemName: "Uncut onyx"
+                },
+                {
+                    id: 19677,
+                    itemName: "Ancient shard"
+                }
+            ]
+        },
+        {
+            name: "Thermonuclear smoke devil",
+            items: [
+                {
+                    id: 12648,
+                    itemName: "Pet smoke devil"
+                },
+                {
+                    id: 12002,
+                    itemName: "Occult necklace"
+                },
+                {
+                    id: 11998,
+                    itemName: "Smoke battlestaff"
+                },
+                {
+                    id: 2513,
+                    itemName: "Dragon chainbody"
+                }
+            ]
+        },
+        {
+            name: "Venenatis",
+            items: [
+                {
+                    id: 13177,
+                    itemName: "Venenatis spiderling"
+                },
+                {
+                    id: 12605,
+                    itemName: "Treasonous ring"
+                },
+                {
+                    id: 11920,
+                    itemName: "Dragon pickaxe"
+                },
+                {
+                    id: 7158,
+                    itemName: "Dragon 2h sword"
+                }
+            ]
+        },
+        {
+            name: "Vet'ion",
+            items: [
+                {
+                    id: 13179,
+                    itemName: "Vet'ion jr."
+                },
+                {
+                    id: 12601,
+                    itemName: "Ring of the gods"
+                },
+                {
+                    id: 11920,
+                    itemName: "Dragon pickaxe"
+                },
+                {
+                    id: 7158,
+                    itemName: "Dragon 2h sword"
+                }
+            ]
+        },
+        {
+            name: "Vorkath",
+            items: [
+                {
+                    id: 21992,
+                    itemName: "Vorki"
+                },
+                {
+                    id: 2425,
+                    itemName: "Vorkath's head"
+                },
+                {
+                    id: 11286,
+                    itemName: "Draconic visage"
+                },
+                {
+                    id: 22006,
+                    itemName: "Skeletal visage"
+                },
+                {
+                    id: 22106,
+                    itemName: "Jar of decay"
+                },
+                {
+                    id: 22111,
+                    itemName: "Dragonbone necklace"
+                }
+            ]
+        },
+        {
+            name: "Wintertodt",
+            items: [
+                {
+                    id: 20693,
+                    itemName: "Phoenix"
+                },
+                {
+                    id: 20716,
+                    itemName: "Tome of fire (empty)"
+                },
+                {
+                    id: 20718,
+                    itemName: "Burnt page"
+                },
+                {
+                    id: 20704,
+                    itemName: "Pyromancer garb"
+                },
+                {
+                    id: 20708,
+                    itemName: "Pyromancer hood"
+                },
+                {
+                    id: 20706,
+                    itemName: "Pyromancer robe"
+                },
+                {
+                    id: 20710,
+                    itemName: "Pyromancer boots"
+                },
+                {
+                    id: 20712,
+                    itemName: "Warm gloves"
+                },
+                {
+                    id: 20720,
+                    itemName: "Bruma torch"
+                },
+                {
+                    id: 6739,
+                    itemName: "Dragon axe"
+                }
+            ]
+        },
+        {
+            name: "Zalcano",
+            items: [
+                {
+                    id: 23760,
+                    itemName: "Smolcano"
+                },
+                {
+                    id: 23953,
+                    itemName: "Crystal tool seed"
+                },
+                {
+                    id: 23908,
+                    itemName: "Zalcano shard"
+                },
+                {
+                    id: 6571,
+                    itemName: "Uncut onyx"
+                }
+            ]
+        },
+        {
+            name: "Zulrah",
+            items: [
+                {
+                    id: 12921,
+                    itemName: "Pet snakeling"
+                },
+                {
+                    id: 13200,
+                    itemName: "Tanzanite mutagen"
+                },
+                {
+                    id: 13201,
+                    itemName: "Magma mutagen"
+                },
+                {
+                    id: 12936,
+                    itemName: "Jar of swamp"
+                },
+                {
+                    id: 12932,
+                    itemName: "Magic fang"
+                },
+                {
+                    id: 12927,
+                    itemName: "Serpentine visage"
+                },
+                {
+                    id: 12922,
+                    itemName: "Tanzanite fang"
+                },
+                {
+                    id: 12938,
+                    itemName: "Zul-andra teleport"
+                },
+                {
+                    id: 6571,
+                    itemName: "Uncut onyx"
+                },
+                {
+                    id: 12934,
+                    itemName: "Zulrah's scales"
+                }
+            ]
+        }
+    ]
+}

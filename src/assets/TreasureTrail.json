@@ -1,0 +1,2684 @@
+{
+    name: "Treasure Trails",
+    subCategories: [
+    {
+          name: "Beginner Treasure Trails",
+          items: [
+        {
+              id: 23285,
+              itemName: "Mole slippers"
+        },
+        {
+              id: 23288,
+              itemName: "Frog slippers"
+        },
+        {
+              id: 23291,
+              itemName: "Bear feet"
+        },
+        {
+              id: 23294,
+              itemName: "Demon feet"
+        },
+        {
+              id: 23297,
+              itemName: "Jester cape"
+        },
+        {
+              id: 23300,
+              itemName: "Shoulder parrot"
+        },
+        {
+              id: 23303,
+              itemName: "Monk's robe top (t)"
+        },
+        {
+              id: 23306,
+              itemName: "Monk's robe (t)"
+        },
+        {
+              id: 23309,
+              itemName: "Amulet of defence (t)"
+        },
+        {
+              id: 23312,
+              itemName: "Sandwich lady hat"
+        },
+        {
+              id: 23315,
+              itemName: "Sandwich lady top"
+        },
+        {
+              id: 23318,
+              itemName: "Sandwich lady bottom"
+        },
+        {
+              id: 23321,
+              itemName: "Rune scimitar ornament kit (guthix)"
+        },
+        {
+              id: 23324,
+              itemName: "Rune scimitar ornament kit (saradomin)"
+        },
+        {
+              id: 23327,
+              itemName: "Rune scimitar ornament kit (zamorak)"
+        },
+        {
+              id: 12297,
+              itemName: "Black pickaxe"
+        }
+      ]
+    },
+    {
+          name: "Easy Treasure Trails",
+          items: [
+        {
+              id: 20211,
+              itemName: "Team cape zero"
+        },
+        {
+              id: 20217,
+              itemName: "Team cape i"
+        },
+        {
+              id: 20214,
+              itemName: "Team cape x"
+        },
+        {
+              id: 23351,
+              itemName: "Cape of skulls"
+        },
+        {
+              id: 20205,
+              itemName: "Golden chef's hat"
+        },
+        {
+              id: 20208,
+              itemName: "Golden apron"
+        },
+        {
+              id: 20166,
+              itemName: "Wooden shield (g)"
+        },
+        {
+              id: 2587,
+              itemName: "Black full helm (t)"
+        },
+        {
+              id: 2583,
+              itemName: "Black platebody (t)"
+        },
+        {
+              id: 2585,
+              itemName: "Black platelegs (t)"
+        },
+        {
+              id: 3472,
+              itemName: "Black plateskirt (t)"
+        },
+        {
+              id: 2589,
+              itemName: "Black kiteshield (t)"
+        },
+        {
+              id: 2595,
+              itemName: "Black full helm (g)"
+        },
+        {
+              id: 2591,
+              itemName: "Black platebody (g)"
+        },
+        {
+              id: 2593,
+              itemName: "Black platelegs (g)"
+        },
+        {
+              id: 3473,
+              itemName: "Black plateskirt (g)"
+        },
+        {
+              id: 2597,
+              itemName: "Black kiteshield (g)"
+        },
+        {
+              id: 7332,
+              itemName: "Black shield (h1)"
+        },
+        {
+              id: 7338,
+              itemName: "Black shield (h2)"
+        },
+        {
+              id: 7344,
+              itemName: "Black shield (h3)"
+        },
+        {
+              id: 7350,
+              itemName: "Black shield (h4)"
+        },
+        {
+              id: 7356,
+              itemName: "Black shield (h5)"
+        },
+        {
+              id: 10306,
+              itemName: "Black helm (h1)"
+        },
+        {
+              id: 10308,
+              itemName: "Black helm (h2)"
+        },
+        {
+              id: 10310,
+              itemName: "Black helm (h3)"
+        },
+        {
+              id: 10312,
+              itemName: "Black helm (h4)"
+        },
+        {
+              id: 10314,
+              itemName: "Black helm (h5)"
+        },
+        {
+              id: 23366,
+              itemName: "Black platebody (h1)"
+        },
+        {
+              id: 23369,
+              itemName: "Black platebody (h2)"
+        },
+        {
+              id: 23372,
+              itemName: "Black platebody (h3)"
+        },
+        {
+              id: 23375,
+              itemName: "Black platebody (h4)"
+        },
+        {
+              id: 23378,
+              itemName: "Black platebody (h5)"
+        },
+        {
+              id: 20193,
+              itemName: "Steel full helm (t)"
+        },
+        {
+              id: 20184,
+              itemName: "Steel platebody (t)"
+        },
+        {
+              id: 20187,
+              itemName: "Steel platelegs (t)"
+        },
+        {
+              id: 20190,
+              itemName: "Steel plateskirt (t)"
+        },
+        {
+              id: 20196,
+              itemName: "Steel kiteshield (t)"
+        },
+        {
+              id: 20178,
+              itemName: "Steel full helm (g)"
+        },
+        {
+              id: 20169,
+              itemName: "Steel platebody (g)"
+        },
+        {
+              id: 20172,
+              itemName: "Steel platelegs (g)"
+        },
+        {
+              id: 20175,
+              itemName: "Steel plateskirt (g)"
+        },
+        {
+              id: 20181,
+              itemName: "Steel kiteshield (g)"
+        },
+        {
+              id: 12225,
+              itemName: "Iron platebody (t)"
+        },
+        {
+              id: 12227,
+              itemName: "Iron platelegs (t)"
+        },
+        {
+              id: 12229,
+              itemName: "Iron plateskirt (t)"
+        },
+        {
+              id: 12233,
+              itemName: "Iron kiteshield (t)"
+        },
+        {
+              id: 12231,
+              itemName: "Iron full helm (t)"
+        },
+        {
+              id: 12235,
+              itemName: "Iron platebody (g)"
+        },
+        {
+              id: 12237,
+              itemName: "Iron platelegs (g)"
+        },
+        {
+              id: 12239,
+              itemName: "Iron plateskirt (g)"
+        },
+        {
+              id: 12243,
+              itemName: "Iron kiteshield (g)"
+        },
+        {
+              id: 12241,
+              itemName: "Iron full helm (g)"
+        },
+        {
+              id: 12215,
+              itemName: "Bronze platebody (t)"
+        },
+        {
+              id: 12217,
+              itemName: "Bronze platelegs (t)"
+        },
+        {
+              id: 12219,
+              itemName: "Bronze plateskirt (t)"
+        },
+        {
+              id: 12223,
+              itemName: "Bronze kiteshield (t)"
+        },
+        {
+              id: 12221,
+              itemName: "Bronze full helm (t)"
+        },
+        {
+              id: 12205,
+              itemName: "Bronze platebody (g)"
+        },
+        {
+              id: 12207,
+              itemName: "Bronze platelegs (g)"
+        },
+        {
+              id: 12209,
+              itemName: "Bronze plateskirt (g)"
+        },
+        {
+              id: 12213,
+              itemName: "Bronze kiteshield (g)"
+        },
+        {
+              id: 12211,
+              itemName: "Bronze full helm (g)"
+        },
+        {
+              id: 7362,
+              itemName: "Studded body (g)"
+        },
+        {
+              id: 7366,
+              itemName: "Studded chaps (g)"
+        },
+        {
+              id: 7364,
+              itemName: "Studded body (t)"
+        },
+        {
+              id: 7368,
+              itemName: "Studded chaps (t)"
+        },
+        {
+              id: 23381,
+              itemName: "Leather body (g)"
+        },
+        {
+              id: 23384,
+              itemName: "Leather chaps (g)"
+        },
+        {
+              id: 7394,
+              itemName: "Blue wizard hat (g)"
+        },
+        {
+              id: 7390,
+              itemName: "Blue wizard robe (g)"
+        },
+        {
+              id: 7386,
+              itemName: "Blue skirt (g)"
+        },
+        {
+              id: 7396,
+              itemName: "Blue wizard hat (t)"
+        },
+        {
+              id: 7392,
+              itemName: "Blue wizard robe (t)"
+        },
+        {
+              id: 7388,
+              itemName: "Blue skirt (t)"
+        },
+        {
+              id: 12453,
+              itemName: "Black wizard hat (g)"
+        },
+        {
+              id: 12449,
+              itemName: "Black wizard robe (g)"
+        },
+        {
+              id: 12445,
+              itemName: "Black skirt (g)"
+        },
+        {
+              id: 12455,
+              itemName: "Black wizard hat (t)"
+        },
+        {
+              id: 12451,
+              itemName: "Black wizard robe (t)"
+        },
+        {
+              id: 12447,
+              itemName: "Black skirt (t)"
+        },
+        {
+              id: 20199,
+              itemName: "Monk's robe top (g)"
+        },
+        {
+              id: 20202,
+              itemName: "Monk's robe (g)"
+        },
+        {
+              id: 10458,
+              itemName: "Saradomin robe top"
+        },
+        {
+              id: 10464,
+              itemName: "Saradomin robe legs"
+        },
+        {
+              id: 10462,
+              itemName: "Guthix robe top"
+        },
+        {
+              id: 10466,
+              itemName: "Guthix robe legs"
+        },
+        {
+              id: 10460,
+              itemName: "Zamorak robe top"
+        },
+        {
+              id: 10468,
+              itemName: "Zamorak robe legs"
+        },
+        {
+              id: 12193,
+              itemName: "Ancient robe top"
+        },
+        {
+              id: 12195,
+              itemName: "Ancient robe legs"
+        },
+        {
+              id: 12253,
+              itemName: "Armadyl robe top"
+        },
+        {
+              id: 12255,
+              itemName: "Armadyl robe legs"
+        },
+        {
+              id: 12265,
+              itemName: "Bandos robe top"
+        },
+        {
+              id: 12267,
+              itemName: "Bandos robe legs"
+        },
+        {
+              id: 10316,
+              itemName: "Bob's red shirt"
+        },
+        {
+              id: 10320,
+              itemName: "Bob's green shirt"
+        },
+        {
+              id: 10318,
+              itemName: "Bob's blue shirt"
+        },
+        {
+              id: 10322,
+              itemName: "Bob's black shirt"
+        },
+        {
+              id: 10324,
+              itemName: "Bob's purple shirt"
+        },
+        {
+              id: 2631,
+              itemName: "Highwayman mask"
+        },
+        {
+              id: 2633,
+              itemName: "Blue beret"
+        },
+        {
+              id: 2635,
+              itemName: "Black beret"
+        },
+        {
+              id: 2637,
+              itemName: "White beret"
+        },
+        {
+              id: 12247,
+              itemName: "Red beret"
+        },
+        {
+              id: 10392,
+              itemName: "A powdered wig"
+        },
+        {
+              id: 12245,
+              itemName: "Beanie"
+        },
+        {
+              id: 12249,
+              itemName: "Imp mask"
+        },
+        {
+              id: 12251,
+              itemName: "Goblin mask"
+        },
+        {
+              id: 10398,
+              itemName: "Sleeping cap"
+        },
+        {
+              id: 10394,
+              itemName: "Flared trousers"
+        },
+        {
+              id: 10396,
+              itemName: "Pantaloons"
+        },
+        {
+              id: 12375,
+              itemName: "Black cane"
+        },
+        {
+              id: 23363,
+              itemName: "Staff of bob the cat"
+        },
+        {
+              id: 10404,
+              itemName: "Red elegant shirt"
+        },
+        {
+              id: 10424,
+              itemName: "Red elegant blouse"
+        },
+        {
+              id: 10406,
+              itemName: "Red elegant legs"
+        },
+        {
+              id: 10426,
+              itemName: "Red elegant skirt"
+        },
+        {
+              id: 10412,
+              itemName: "Green elegant shirt"
+        },
+        {
+              id: 10432,
+              itemName: "Green elegant blouse"
+        },
+        {
+              id: 10414,
+              itemName: "Green elegant legs"
+        },
+        {
+              id: 10434,
+              itemName: "Green elegant skirt"
+        },
+        {
+              id: 10408,
+              itemName: "Blue elegant shirt"
+        },
+        {
+              id: 10428,
+              itemName: "Blue elegant blouse"
+        },
+        {
+              id: 10410,
+              itemName: "Blue elegant legs"
+        },
+        {
+              id: 10430,
+              itemName: "Blue elegant skirt"
+        },
+        {
+              id: 10366,
+              itemName: "Amulet of magic (t)"
+        },
+        {
+              id: 23354,
+              itemName: "Amulet of power (t)"
+        },
+        {
+              id: 12297,
+              itemName: "Black pickaxe"
+        },
+        {
+              id: 23360,
+              itemName: "Ham joint"
+        },
+        {
+              id: 23357,
+              itemName: "Rain bow"
+        },
+        {
+              id: 10280,
+              itemName: "Willow comp bow"
+        }
+      ]
+    },
+    {
+          name: "Medium Treasure Trails",
+          items: [
+        {
+              id: 2577,
+              itemName: "Ranger boots"
+        },
+        {
+              id: 2579,
+              itemName: "Wizard boots"
+        },
+        {
+              id: 12598,
+              itemName: "Holy sandals"
+        },
+        {
+              id: 23413,
+              itemName: "Climbing boots (g)"
+        },
+        {
+              id: 23389,
+              itemName: "Spiked manacles"
+        },
+        {
+              id: 2605,
+              itemName: "Adamant full helm (t)"
+        },
+        {
+              id: 2599,
+              itemName: "Adamant platebody (t)"
+        },
+        {
+              id: 2601,
+              itemName: "Adamant platelegs (t)"
+        },
+        {
+              id: 3474,
+              itemName: "Adamant plateskirt (t)"
+        },
+        {
+              id: 2603,
+              itemName: "Adamant kiteshield (t)"
+        },
+        {
+              id: 2613,
+              itemName: "Adamant full helm (g)"
+        },
+        {
+              id: 2607,
+              itemName: "Adamant platebody (g)"
+        },
+        {
+              id: 2609,
+              itemName: "Adamant platelegs (g)"
+        },
+        {
+              id: 3475,
+              itemName: "Adamant plateskirt (g)"
+        },
+        {
+              id: 2611,
+              itemName: "Adamant kiteshield (g)"
+        },
+        {
+              id: 7334,
+              itemName: "Adamant shield (h1)"
+        },
+        {
+              id: 7340,
+              itemName: "Adamant shield (h2)"
+        },
+        {
+              id: 7346,
+              itemName: "Adamant shield (h3)"
+        },
+        {
+              id: 7352,
+              itemName: "Adamant shield (h4)"
+        },
+        {
+              id: 7358,
+              itemName: "Adamant shield (h5)"
+        },
+        {
+              id: 10296,
+              itemName: "Adamant helm (h1)"
+        },
+        {
+              id: 10298,
+              itemName: "Adamant helm (h2)"
+        },
+        {
+              id: 10300,
+              itemName: "Adamant helm (h3)"
+        },
+        {
+              id: 10302,
+              itemName: "Adamant helm (h4)"
+        },
+        {
+              id: 10304,
+              itemName: "Adamant helm (h5)"
+        },
+        {
+              id: 23392,
+              itemName: "Adamant platebody (h1)"
+        },
+        {
+              id: 23395,
+              itemName: "Adamant platebody (h2)"
+        },
+        {
+              id: 23398,
+              itemName: "Adamant platebody (h3)"
+        },
+        {
+              id: 23401,
+              itemName: "Adamant platebody (h4)"
+        },
+        {
+              id: 23404,
+              itemName: "Adamant platebody (h5)"
+        },
+        {
+              id: 12293,
+              itemName: "Mithril full helm (t)"
+        },
+        {
+              id: 12287,
+              itemName: "Mithril platebody (t)"
+        },
+        {
+              id: 12289,
+              itemName: "Mithril platelegs (t)"
+        },
+        {
+              id: 12295,
+              itemName: "Mithril plateskirt (t)"
+        },
+        {
+              id: 12291,
+              itemName: "Mithril kiteshield (t)"
+        },
+        {
+              id: 12283,
+              itemName: "Mithril full helm (g)"
+        },
+        {
+              id: 12277,
+              itemName: "Mithril platebody (g)"
+        },
+        {
+              id: 12279,
+              itemName: "Mithril platelegs (g)"
+        },
+        {
+              id: 12285,
+              itemName: "Mithril plateskirt (g)"
+        },
+        {
+              id: 12281,
+              itemName: "Mithril kiteshield (g)"
+        },
+        {
+              id: 7370,
+              itemName: "Green d'hide body (g)"
+        },
+        {
+              id: 7372,
+              itemName: "Green d'hide body (t)"
+        },
+        {
+              id: 7378,
+              itemName: "Green d'hide chaps (g)"
+        },
+        {
+              id: 7380,
+              itemName: "Green d'hide chaps (t)"
+        },
+        {
+              id: 10452,
+              itemName: "Saradomin mitre"
+        },
+        {
+              id: 10446,
+              itemName: "Saradomin cloak"
+        },
+        {
+              id: 10454,
+              itemName: "Guthix mitre"
+        },
+        {
+              id: 10448,
+              itemName: "Guthix cloak"
+        },
+        {
+              id: 10456,
+              itemName: "Zamorak mitre"
+        },
+        {
+              id: 10450,
+              itemName: "Zamorak cloak"
+        },
+        {
+              id: 12203,
+              itemName: "Ancient mitre"
+        },
+        {
+              id: 12197,
+              itemName: "Ancient cloak"
+        },
+        {
+              id: 12201,
+              itemName: "Ancient stole"
+        },
+        {
+              id: 12199,
+              itemName: "Ancient crozier"
+        },
+        {
+              id: 12259,
+              itemName: "Armadyl mitre"
+        },
+        {
+              id: 12261,
+              itemName: "Armadyl cloak"
+        },
+        {
+              id: 12257,
+              itemName: "Armadyl stole"
+        },
+        {
+              id: 12263,
+              itemName: "Armadyl crozier"
+        },
+        {
+              id: 12271,
+              itemName: "Bandos mitre"
+        },
+        {
+              id: 12273,
+              itemName: "Bandos cloak"
+        },
+        {
+              id: 12269,
+              itemName: "Bandos stole"
+        },
+        {
+              id: 12275,
+              itemName: "Bandos crozier"
+        },
+        {
+              id: 7319,
+              itemName: "Red boater"
+        },
+        {
+              id: 7323,
+              itemName: "Green boater"
+        },
+        {
+              id: 7321,
+              itemName: "Orange boater"
+        },
+        {
+              id: 7327,
+              itemName: "Black boater"
+        },
+        {
+              id: 7325,
+              itemName: "Blue boater"
+        },
+        {
+              id: 12309,
+              itemName: "Pink boater"
+        },
+        {
+              id: 12311,
+              itemName: "Purple boater"
+        },
+        {
+              id: 12313,
+              itemName: "White boater"
+        },
+        {
+              id: 2645,
+              itemName: "Red headband"
+        },
+        {
+              id: 2647,
+              itemName: "Black headband"
+        },
+        {
+              id: 2649,
+              itemName: "Brown headband"
+        },
+        {
+              id: 12299,
+              itemName: "White headband"
+        },
+        {
+              id: 12301,
+              itemName: "Blue headband"
+        },
+        {
+              id: 12303,
+              itemName: "Gold headband"
+        },
+        {
+              id: 12305,
+              itemName: "Pink headband"
+        },
+        {
+              id: 12307,
+              itemName: "Green headband"
+        },
+        {
+              id: 12319,
+              itemName: "Crier hat"
+        },
+        {
+              id: 20240,
+              itemName: "Crier coat"
+        },
+        {
+              id: 20243,
+              itemName: "Crier bell"
+        },
+        {
+              id: 12377,
+              itemName: "Adamant cane"
+        },
+        {
+              id: 20251,
+              itemName: "Arceuus banner"
+        },
+        {
+              id: 20260,
+              itemName: "Piscarilius banner"
+        },
+        {
+              id: 20254,
+              itemName: "Hosidius banner"
+        },
+        {
+              id: 20263,
+              itemName: "Shayzien banner"
+        },
+        {
+              id: 20257,
+              itemName: "Lovakengj banner"
+        },
+        {
+              id: 20272,
+              itemName: "Cabbage round shield"
+        },
+        {
+              id: 20266,
+              itemName: "Black unicorn mask"
+        },
+        {
+              id: 20269,
+              itemName: "White unicorn mask"
+        },
+        {
+              id: 12361,
+              itemName: "Cat mask"
+        },
+        {
+              id: 12428,
+              itemName: "Penguin mask"
+        },
+        {
+              id: 12359,
+              itemName: "Leprechaun hat"
+        },
+        {
+              id: 20246,
+              itemName: "Black leprechaun hat"
+        },
+        {
+              id: 23407,
+              itemName: "Wolf mask"
+        },
+        {
+              id: 23410,
+              itemName: "Wolf cloak"
+        },
+        {
+              id: 10416,
+              itemName: "Purple elegant shirt"
+        },
+        {
+              id: 10436,
+              itemName: "Purple elegant blouse"
+        },
+        {
+              id: 10418,
+              itemName: "Purple elegant legs"
+        },
+        {
+              id: 10438,
+              itemName: "Purple elegant skirt"
+        },
+        {
+              id: 10400,
+              itemName: "Black elegant shirt"
+        },
+        {
+              id: 10420,
+              itemName: "White elegant blouse"
+        },
+        {
+              id: 10402,
+              itemName: "Black elegant legs"
+        },
+        {
+              id: 10422,
+              itemName: "White elegant skirt"
+        },
+        {
+              id: 12315,
+              itemName: "Pink elegant shirt"
+        },
+        {
+              id: 12339,
+              itemName: "Pink elegant blouse"
+        },
+        {
+              id: 12317,
+              itemName: "Pink elegant legs"
+        },
+        {
+              id: 12341,
+              itemName: "Pink elegant skirt"
+        },
+        {
+              id: 12347,
+              itemName: "Gold elegant shirt"
+        },
+        {
+              id: 12343,
+              itemName: "Gold elegant blouse"
+        },
+        {
+              id: 12349,
+              itemName: "Gold elegant legs"
+        },
+        {
+              id: 12345,
+              itemName: "Gold elegant skirt"
+        },
+        {
+              id: 20275,
+              itemName: "Gnomish firelighter"
+        },
+        {
+              id: 10364,
+              itemName: "Strength amulet (t)"
+        },
+        {
+              id: 10282,
+              itemName: "Yew comp bow"
+        }
+      ]
+    },
+    {
+          name: "Hard Treasure Trails",
+          items: [
+        {
+              id: 10334,
+              itemName: "3rd age range coif"
+        },
+        {
+              id: 10330,
+              itemName: "3rd age range top"
+        },
+        {
+              id: 10332,
+              itemName: "3rd age range legs"
+        },
+        {
+              id: 10336,
+              itemName: "3rd age vambraces"
+        },
+        {
+              id: 10338,
+              itemName: "3rd age robe top"
+        },
+        {
+              id: 10340,
+              itemName: "3rd age robe"
+        },
+        {
+              id: 10342,
+              itemName: "3rd age mage hat"
+        },
+        {
+              id: 10344,
+              itemName: "3rd age amulet"
+        },
+        {
+              id: 23242,
+              itemName: "3rd age plateskirt"
+        },
+        {
+              id: 10346,
+              itemName: "3rd age platelegs"
+        },
+        {
+              id: 10348,
+              itemName: "3rd age platebody"
+        },
+        {
+              id: 10350,
+              itemName: "3rd age full helmet"
+        },
+        {
+              id: 10352,
+              itemName: "3rd age kiteshield"
+        },
+        {
+              id: 3481,
+              itemName: "Gilded platebody"
+        },
+        {
+              id: 3483,
+              itemName: "Gilded platelegs"
+        },
+        {
+              id: 3485,
+              itemName: "Gilded plateskirt"
+        },
+        {
+              id: 3486,
+              itemName: "Gilded full helm"
+        },
+        {
+              id: 3488,
+              itemName: "Gilded kiteshield"
+        },
+        {
+              id: 20146,
+              itemName: "Gilded med helm"
+        },
+        {
+              id: 20149,
+              itemName: "Gilded chainbody"
+        },
+        {
+              id: 20152,
+              itemName: "Gilded sq shield"
+        },
+        {
+              id: 20155,
+              itemName: "Gilded 2h sword"
+        },
+        {
+              id: 20158,
+              itemName: "Gilded spear"
+        },
+        {
+              id: 20161,
+              itemName: "Gilded hasta"
+        },
+        {
+              id: 2581,
+              itemName: "Robin hood hat"
+        },
+        {
+              id: 22231,
+              itemName: "Dragon boots ornament kit"
+        },
+        {
+              id: 23227,
+              itemName: "Rune defender ornament kit"
+        },
+        {
+              id: 23232,
+              itemName: "Tzhaar-ket-om ornament kit"
+        },
+        {
+              id: 23237,
+              itemName: "Berserker necklace ornament kit"
+        },
+        {
+              id: 2627,
+              itemName: "Rune full helm (t)"
+        },
+        {
+              id: 2623,
+              itemName: "Rune platebody (t)"
+        },
+        {
+              id: 2625,
+              itemName: "Rune platelegs (t)"
+        },
+        {
+              id: 3477,
+              itemName: "Rune plateskirt (t)"
+        },
+        {
+              id: 2629,
+              itemName: "Rune kiteshield (t)"
+        },
+        {
+              id: 2619,
+              itemName: "Rune full helm (g)"
+        },
+        {
+              id: 2615,
+              itemName: "Rune platebody (g)"
+        },
+        {
+              id: 2617,
+              itemName: "Rune platelegs (g)"
+        },
+        {
+              id: 3476,
+              itemName: "Rune plateskirt (g)"
+        },
+        {
+              id: 2621,
+              itemName: "Rune kiteshield (g)"
+        },
+        {
+              id: 2657,
+              itemName: "Zamorak full helm"
+        },
+        {
+              id: 2653,
+              itemName: "Zamorak platebody"
+        },
+        {
+              id: 2655,
+              itemName: "Zamorak platelegs"
+        },
+        {
+              id: 3478,
+              itemName: "Zamorak plateskirt"
+        },
+        {
+              id: 2659,
+              itemName: "Zamorak kiteshield"
+        },
+        {
+              id: 2673,
+              itemName: "Guthix full helm"
+        },
+        {
+              id: 2669,
+              itemName: "Guthix platebody"
+        },
+        {
+              id: 2671,
+              itemName: "Guthix platelegs"
+        },
+        {
+              id: 3480,
+              itemName: "Guthix plateskirt"
+        },
+        {
+              id: 2675,
+              itemName: "Guthix kiteshield"
+        },
+        {
+              id: 2665,
+              itemName: "Saradomin full helm"
+        },
+        {
+              id: 2661,
+              itemName: "Saradomin platebody"
+        },
+        {
+              id: 2663,
+              itemName: "Saradomin platelegs"
+        },
+        {
+              id: 3479,
+              itemName: "Saradomin plateskirt"
+        },
+        {
+              id: 2667,
+              itemName: "Saradomin kiteshield"
+        },
+        {
+              id: 12466,
+              itemName: "Ancient full helm"
+        },
+        {
+              id: 12460,
+              itemName: "Ancient platebody"
+        },
+        {
+              id: 12462,
+              itemName: "Ancient platelegs"
+        },
+        {
+              id: 12464,
+              itemName: "Ancient plateskirt"
+        },
+        {
+              id: 12468,
+              itemName: "Ancient kiteshield"
+        },
+        {
+              id: 12476,
+              itemName: "Armadyl full helm"
+        },
+        {
+              id: 12470,
+              itemName: "Armadyl platebody"
+        },
+        {
+              id: 12472,
+              itemName: "Armadyl platelegs"
+        },
+        {
+              id: 12474,
+              itemName: "Armadyl plateskirt"
+        },
+        {
+              id: 12478,
+              itemName: "Armadyl kiteshield"
+        },
+        {
+              id: 12486,
+              itemName: "Bandos full helm"
+        },
+        {
+              id: 12480,
+              itemName: "Bandos platebody"
+        },
+        {
+              id: 12482,
+              itemName: "Bandos platelegs"
+        },
+        {
+              id: 12484,
+              itemName: "Bandos plateskirt"
+        },
+        {
+              id: 12488,
+              itemName: "Bandos kiteshield"
+        },
+        {
+              id: 7336,
+              itemName: "Rune shield (h1)"
+        },
+        {
+              id: 7342,
+              itemName: "Rune shield (h2)"
+        },
+        {
+              id: 7348,
+              itemName: "Rune shield (h3)"
+        },
+        {
+              id: 7354,
+              itemName: "Rune shield (h4)"
+        },
+        {
+              id: 7360,
+              itemName: "Rune shield (h5)"
+        },
+        {
+              id: 10286,
+              itemName: "Rune helm (h1)"
+        },
+        {
+              id: 10288,
+              itemName: "Rune helm (h2)"
+        },
+        {
+              id: 10290,
+              itemName: "Rune helm (h3)"
+        },
+        {
+              id: 10292,
+              itemName: "Rune helm (h4)"
+        },
+        {
+              id: 10294,
+              itemName: "Rune helm (h5)"
+        },
+        {
+              id: 23209,
+              itemName: "Rune platebody (h1)"
+        },
+        {
+              id: 23212,
+              itemName: "Rune platebody (h2)"
+        },
+        {
+              id: 23215,
+              itemName: "Rune platebody (h3)"
+        },
+        {
+              id: 23218,
+              itemName: "Rune platebody (h4)"
+        },
+        {
+              id: 23221,
+              itemName: "Rune platebody (h5)"
+        },
+        {
+              id: 10390,
+              itemName: "Saradomin coif"
+        },
+        {
+              id: 10386,
+              itemName: "Saradomin d'hide"
+        },
+        {
+              id: 10388,
+              itemName: "Saradomin chaps"
+        },
+        {
+              id: 10384,
+              itemName: "Saradomin bracers"
+        },
+        {
+              id: 19933,
+              itemName: "Saradomin d'hide boots"
+        },
+        {
+              id: 23191,
+              itemName: "Saradomin d'hide shield"
+        },
+        {
+              id: 10382,
+              itemName: "Guthix coif"
+        },
+        {
+              id: 10378,
+              itemName: "Guthix d'hide"
+        },
+        {
+              id: 10380,
+              itemName: "Guthix chaps"
+        },
+        {
+              id: 10376,
+              itemName: "Guthix bracers"
+        },
+        {
+              id: 19927,
+              itemName: "Guthix d'hide boots"
+        },
+        {
+              id: 23188,
+              itemName: "Guthix d'hide shield"
+        },
+        {
+              id: 10374,
+              itemName: "Zamorak coif"
+        },
+        {
+              id: 10370,
+              itemName: "Zamorak d'hide"
+        },
+        {
+              id: 10372,
+              itemName: "Zamorak chaps"
+        },
+        {
+              id: 10368,
+              itemName: "Zamorak bracers"
+        },
+        {
+              id: 19936,
+              itemName: "Zamorak d'hide boots"
+        },
+        {
+              id: 23194,
+              itemName: "Zamorak d'hide shield"
+        },
+        {
+              id: 12504,
+              itemName: "Bandos coif"
+        },
+        {
+              id: 12500,
+              itemName: "Bandos d'hide"
+        },
+        {
+              id: 12502,
+              itemName: "Bandos chaps"
+        },
+        {
+              id: 12498,
+              itemName: "Bandos bracers"
+        },
+        {
+              id: 19924,
+              itemName: "Bandos d'hide boots"
+        },
+        {
+              id: 23203,
+              itemName: "Bandos d'hide shield"
+        },
+        {
+              id: 12512,
+              itemName: "Armadyl coif"
+        },
+        {
+              id: 12508,
+              itemName: "Armadyl d'hide"
+        },
+        {
+              id: 12510,
+              itemName: "Armadyl chaps"
+        },
+        {
+              id: 12506,
+              itemName: "Armadyl bracers"
+        },
+        {
+              id: 19930,
+              itemName: "Armadyl d'hide boots"
+        },
+        {
+              id: 23200,
+              itemName: "Armadyl d'hide shield"
+        },
+        {
+              id: 12496,
+              itemName: "Ancient coif"
+        },
+        {
+              id: 12492,
+              itemName: "Ancient d'hide"
+        },
+        {
+              id: 12494,
+              itemName: "Ancient chaps"
+        },
+        {
+              id: 12490,
+              itemName: "Ancient bracers"
+        },
+        {
+              id: 19921,
+              itemName: "Ancient d'hide boots"
+        },
+        {
+              id: 23197,
+              itemName: "Ancient d'hide shield"
+        },
+        {
+              id: 12331,
+              itemName: "Red d'hide body (t)"
+        },
+        {
+              id: 12333,
+              itemName: "Red d'hide chaps (t)"
+        },
+        {
+              id: 12327,
+              itemName: "Red d'hide body (g)"
+        },
+        {
+              id: 12329,
+              itemName: "Red d'hide chaps (g)"
+        },
+        {
+              id: 7376,
+              itemName: "Blue d'hide body (t)"
+        },
+        {
+              id: 7384,
+              itemName: "Blue d'hide chaps (t)"
+        },
+        {
+              id: 7374,
+              itemName: "Blue d'hide body (g)"
+        },
+        {
+              id: 7382,
+              itemName: "Blue d'hide chaps (g)"
+        },
+        {
+              id: 7400,
+              itemName: "Enchanted hat"
+        },
+        {
+              id: 7399,
+              itemName: "Enchanted top"
+        },
+        {
+              id: 7398,
+              itemName: "Enchanted robe"
+        },
+        {
+              id: 10470,
+              itemName: "Saradomin stole"
+        },
+        {
+              id: 10440,
+              itemName: "Saradomin crozier"
+        },
+        {
+              id: 10472,
+              itemName: "Guthix stole"
+        },
+        {
+              id: 10442,
+              itemName: "Guthix crozier"
+        },
+        {
+              id: 10474,
+              itemName: "Zamorak stole"
+        },
+        {
+              id: 10444,
+              itemName: "Zamorak crozier"
+        },
+        {
+            id: 19912,
+            itemName: "Zombie head"
+        },
+        {
+              id: 19915,
+              itemName: "Cyclops head"
+        },
+        {
+              id: 2651,
+              itemName: "Pirate's hat"
+        },
+        {
+              id: 12323,
+              itemName: "Red cavalier"
+        },
+        {
+              id: 12321,
+              itemName: "White cavalier"
+        },
+        {
+              id: 12325,
+              itemName: "Navy cavalier"
+        },
+        {
+              id: 2639,
+              itemName: "Tan cavalier"
+        },
+        {
+              id: 2641,
+              itemName: "Dark cavalier"
+        },
+        {
+              id: 2643,
+              itemName: "Black cavalier"
+        },
+        {
+              id: 12516,
+              itemName: "Pith helmet"
+        },
+        {
+              id: 12514,
+              itemName: "Explorer backpack"
+        },
+        {
+              id: 23224,
+              itemName: "Thieving bag"
+        },
+        {
+              id: 12518,
+              itemName: "Green dragon mask"
+        },
+        {
+              id: 12520,
+              itemName: "Blue dragon mask"
+        },
+        {
+              id: 12522,
+              itemName: "Red dragon mask"
+        },
+        {
+              id: 12524,
+              itemName: "Black dragon mask"
+        },
+        {
+              id: 19918,
+              itemName: "Nunchaku"
+        },
+        {
+              id: 23206,
+              itemName: "Dual sai"
+        },
+        {
+              id: 12379,
+              itemName: "Rune cane"
+        },
+        {
+              id: 10362,
+              itemName: "Amulet of glory (t)"
+        },
+        {
+              id: 10284,
+              itemName: "Magic comp bow"
+        }
+      ]
+    },
+    {
+          name: "Elite Treasure Trails",
+          items: [
+        {
+              id: 12426,
+              itemName: "3rd age longsword"
+        },
+        {
+              id: 12422,
+              itemName: "3rd age wand"
+        },
+        {
+              id: 12437,
+              itemName: "3rd age cloak"
+        },
+        {
+              id: 12424,
+              itemName: "3rd age bow"
+        },
+        {
+              id: 10334,
+              itemName: "3rd age range coif"
+        },
+        {
+              id: 10330,
+              itemName: "3rd age range top"
+        },
+        {
+              id: 10332,
+              itemName: "3rd age range legs"
+        },
+        {
+              id: 10336,
+              itemName: "3rd age vambraces"
+        },
+        {
+              id: 10338,
+              itemName: "3rd age robe top"
+        },
+        {
+              id: 10340,
+              itemName: "3rd age robe"
+        },
+        {
+              id: 10342,
+              itemName: "3rd age mage hat"
+        },
+        {
+              id: 10344,
+              itemName: "3rd age amulet"
+        },
+        {
+              id: 23242,
+              itemName: "3rd age plateskirt"
+        },
+        {
+              id: 10346,
+              itemName: "3rd age platelegs"
+        },
+        {
+              id: 10348,
+              itemName: "3rd age platebody"
+        },
+        {
+              id: 10350,
+              itemName: "3rd age full helmet"
+        },
+        {
+              id: 10352,
+              itemName: "3rd age kiteshield"
+        },
+        {
+              id: 23185,
+              itemName: "Ring of 3rd age"
+        },
+        {
+              id: 12389,
+              itemName: "Gilded scimitar"
+        },
+        {
+              id: 12391,
+              itemName: "Gilded boots"
+        },
+        {
+              id: 3481,
+              itemName: "Gilded platebody"
+        },
+        {
+              id: 3483,
+              itemName: "Gilded platelegs"
+        },
+        {
+              id: 3485,
+              itemName: "Gilded plateskirt"
+        },
+        {
+              id: 3486,
+              itemName: "Gilded full helm"
+        },
+        {
+              id: 3488,
+              itemName: "Gilded kiteshield"
+        },
+        {
+              id: 20146,
+              itemName: "Gilded med helm"
+        },
+        {
+              id: 20149,
+              itemName: "Gilded chainbody"
+        },
+        {
+              id: 20152,
+              itemName: "Gilded sq shield"
+        },
+        {
+              id: 20155,
+              itemName: "Gilded 2h sword"
+        },
+        {
+              id: 20158,
+              itemName: "Gilded spear"
+        },
+        {
+              id: 20161,
+              itemName: "Gilded hasta"
+        },
+        {
+              id: 23258,
+              itemName: "Gilded coif"
+        },
+        {
+              id: 23261,
+              itemName: "Gilded d'hide vambs"
+        },
+        {
+              id: 23264,
+              itemName: "Gilded d'hide body"
+        },
+        {
+              id: 23267,
+              itemName: "Gilded d'hide chaps"
+        },
+        {
+              id: 23276,
+              itemName: "Gilded pickaxe"
+        },
+        {
+              id: 23279,
+              itemName: "Gilded axe"
+        },
+        {
+              id: 23282,
+              itemName: "Gilded spade"
+        },
+        {
+              id: 12526,
+              itemName: "Fury ornament kit"
+        },
+        {
+              id: 12534,
+              itemName: "Dragon chainbody ornament kit"
+        },
+        {
+              id: 12536,
+              itemName: "Dragon legs/skirt ornament kit"
+        },
+        {
+              id: 12532,
+              itemName: "Dragon sq shield ornament kit"
+        },
+        {
+              id: 12538,
+              itemName: "Dragon full helm ornament kit"
+        },
+        {
+              id: 20002,
+              itemName: "Dragon scimitar ornament kit"
+        },
+        {
+              id: 12530,
+              itemName: "Light infinity colour kit"
+        },
+        {
+              id: 12528,
+              itemName: "Dark infinity colour kit"
+        },
+        {
+              id: 19997,
+              itemName: "Holy wraps"
+        },
+        {
+              id: 19994,
+              itemName: "Ranger gloves"
+        },
+        {
+              id: 12596,
+              itemName: "Rangers' tunic"
+        },
+        {
+              id: 23249,
+              itemName: "Rangers' tights"
+        },
+        {
+              id: 12381,
+              itemName: "Black d'hide body (g)"
+        },
+        {
+              id: 12383,
+              itemName: "Black d'hide chaps (g)"
+        },
+        {
+              id: 12385,
+              itemName: "Black d'hide body (t)"
+        },
+        {
+              id: 12387,
+              itemName: "Black d'hide chaps (t)"
+        },
+        {
+              id: 12397,
+              itemName: "Royal crown"
+        },
+        {
+              id: 12439,
+              itemName: "Royal sceptre"
+        },
+        {
+              id: 12393,
+              itemName: "Royal gown top"
+        },
+        {
+              id: 12395,
+              itemName: "Royal gown bottom"
+        },
+        {
+              id: 12351,
+              itemName: "Musketeer hat"
+        },
+        {
+              id: 12441,
+              itemName: "Musketeer tabard"
+        },
+        {
+              id: 12443,
+              itemName: "Musketeer pants"
+        },
+        {
+              id: 19958,
+              itemName: "Dark tuxedo jacket"
+        },
+        {
+              id: 19964,
+              itemName: "Dark trousers"
+        },
+        {
+              id: 19967,
+              itemName: "Dark tuxedo shoes"
+        },
+        {
+              id: 19961,
+              itemName: "Dark tuxedo cuffs"
+        },
+        {
+              id: 19970,
+              itemName: "Dark bow tie"
+        },
+        {
+              id: 19973,
+              itemName: "Light tuxedo jacket"
+        },
+        {
+              id: 19979,
+              itemName: "Light trousers"
+        },
+        {
+              id: 19982,
+              itemName: "Light tuxedo shoes"
+        },
+        {
+              id: 19976,
+              itemName: "Light tuxedo cuffs"
+        },
+        {
+              id: 19985,
+              itemName: "Light bow tie"
+        },
+        {
+              id: 19943,
+              itemName: "Arceuus scarf"
+        },
+        {
+              id: 19946,
+              itemName: "Hosidius scarf"
+        },
+        {
+              id: 19952,
+              itemName: "Piscarilius scarf"
+        },
+        {
+              id: 19955,
+              itemName: "Shayzien scarf"
+        },
+        {
+              id: 19949,
+              itemName: "Lovakengj scarf"
+        },
+        {
+              id: 12363,
+              itemName: "Bronze dragon mask"
+        },
+        {
+              id: 12365,
+              itemName: "Iron dragon mask"
+        },
+        {
+              id: 12367,
+              itemName: "Steel dragon mask"
+        },
+        {
+              id: 12369,
+              itemName: "Mithril dragon mask"
+        },
+        {
+              id: 23270,
+              itemName: "Adamant dragon mask"
+        },
+        {
+              id: 23273,
+              itemName: "Rune dragon mask"
+        },
+        {
+              id: 12371,
+              itemName: "Lava dragon mask"
+        },
+        {
+              id: 20005,
+              itemName: "Ring of nature"
+        },
+        {
+              id: 12357,
+              itemName: "Katana"
+        },
+        {
+              id: 12373,
+              itemName: "Dragon cane"
+        },
+        {
+              id: 12335,
+              itemName: "Briefcase"
+        },
+        {
+              id: 19991,
+              itemName: "Bucket helm"
+        },
+        {
+              id: 19988,
+              itemName: "Blacksmith's helm"
+        },
+        {
+              id: 12540,
+              itemName: "Deerstalker"
+        },
+        {
+              id: 12430,
+              itemName: "Afro"
+        },
+        {
+              id: 12355,
+              itemName: "Big pirate hat"
+        },
+        {
+              id: 12432,
+              itemName: "Top hat"
+        },
+        {
+              id: 12353,
+              itemName: "Monocle"
+        },
+        {
+              id: 12337,
+              itemName: "Sagacious spectacles"
+        },
+        {
+              id: 23246,
+              itemName: "Fremennik kilt"
+        },
+        {
+              id: 23252,
+              itemName: "Giant boot"
+        },
+        {
+              id: 23255,
+              itemName: "Uri's hat"
+        },
+      ]
+    },
+    {
+          name: "Master Treasure Trails",
+          items: [
+        {
+              id: 19730,
+              itemName: "Bloodhound"
+        },
+        {
+              id: 20014,
+              itemName: "3rd age pickaxe"
+        },
+        {
+              id: 20011,
+              itemName: "3rd age axe"
+        },
+        {
+              id: 12426,
+              itemName: "3rd age longsword"
+        },
+        {
+              id: 12422,
+              itemName: "3rd age wand"
+        },
+        {
+              id: 12437,
+              itemName: "3rd age cloak"
+        },
+        {
+              id: 12424,
+              itemName: "3rd age bow"
+        },
+        {
+              id: 10334,
+              itemName: "3rd age range coif"
+        },
+        {
+              id: 10330,
+              itemName: "3rd age range top"
+        },
+        {
+              id: 10332,
+              itemName: "3rd age range legs"
+        },
+        {
+              id: 10336,
+              itemName: "3rd age vambraces"
+        },
+        {
+              id: 10338,
+              itemName: "3rd age robe top"
+        },
+        {
+              id: 10340,
+              itemName: "3rd age robe"
+        },
+        {
+              id: 10342,
+              itemName: "3rd age mage hat"
+        },
+        {
+              id: 10344,
+              itemName: "3rd age amulet"
+        },
+        {
+              id: 23242,
+              itemName: "3rd age plateskirt"
+        },
+        {
+              id: 10346,
+              itemName: "3rd age platelegs"
+        },
+        {
+              id: 10348,
+              itemName: "3rd age platebody"
+        },
+        {
+              id: 10350,
+              itemName: "3rd age full helmet"
+        },
+        {
+              id: 10352,
+              itemName: "3rd age kiteshield"
+        },
+        {
+              id: 23339,
+              itemName: "3rd age druidic robe bottoms"
+        },
+        {
+              id: 23336,
+              itemName: "3rd age druidic robe top"
+        },
+        {
+              id: 23342,
+              itemName: "3rd age druidic staff"
+        },
+        {
+              id: 23345,
+              itemName: "3rd age druidic cloak"
+        },
+        {
+              id: 23185,
+              itemName: "Ring of 3rd age"
+        },
+        {
+              id: 12389,
+              itemName: "Gilded scimitar"
+        },
+        {
+              id: 12391,
+              itemName: "Gilded boots"
+        },
+        {
+              id: 3481,
+              itemName: "Gilded platebody"
+        },
+        {
+              id: 3483,
+              itemName: "Gilded platelegs"
+        },
+        {
+              id: 3485,
+              itemName: "Gilded plateskirt"
+        },
+        {
+              id: 3486,
+              itemName: "Gilded full helm"
+        },
+        {
+              id: 3488,
+              itemName: "Gilded kiteshield"
+        },
+        {
+              id: 20146,
+              itemName: "Gilded med helm"
+        },
+        {
+              id: 20149,
+              itemName: "Gilded chainbody"
+        },
+        {
+              id: 20152,
+              itemName: "Gilded sq shield"
+        },
+        {
+              id: 20155,
+              itemName: "Gilded 2h sword"
+        },
+        {
+              id: 20158,
+              itemName: "Gilded spear"
+        },
+        {
+              id: 20161,
+              itemName: "Gilded hasta"
+        },
+        {
+              id: 23258,
+              itemName: "Gilded coif"
+        },
+        {
+              id: 23261,
+              itemName: "Gilded d'hide vambs"
+        },
+        {
+              id: 23264,
+              itemName: "Gilded d'hide body"
+        },
+        {
+              id: 23267,
+              itemName: "Gilded d'hide chaps"
+        },
+        {
+              id: 23276,
+              itemName: "Gilded pickaxe"
+        },
+        {
+              id: 23279,
+              itemName: "Gilded axe"
+        },
+        {
+              id: 23282,
+              itemName: "Gilded spade"
+        },
+        {
+              id: 20059,
+              itemName: "Bucket helm (g)"
+        },
+        {
+              id: 20017,
+              itemName: "Ring of coins"
+        },
+        {
+              id: 20068,
+              itemName: "Armadyl godsword ornament kit"
+        },
+        {
+              id: 20071,
+              itemName: "Bandos godsword ornament kit"
+        },
+        {
+              id: 20074,
+              itemName: "Saradomin godsword ornament kit"
+        },
+        {
+              id: 20077,
+              itemName: "Zamorak godsword ornament kit"
+        },
+        {
+              id: 20065,
+              itemName: "Occult ornament kit"
+        },
+        {
+              id: 20062,
+              itemName: "Torture ornament kit"
+        },
+        {
+              id: 22246,
+              itemName: "Anguish ornament kit"
+        },
+        {
+              id: 20143,
+              itemName: "Dragon defender ornament kit"
+        },
+        {
+              id: 22239,
+              itemName: "Dragon kiteshield ornament kit"
+        },
+        {
+              id: 22236,
+              itemName: "Dragon platebody ornament kit"
+        },
+        {
+              id: 23348,
+              itemName: "Tormented ornament kit"
+        },
+        {
+              id: 20128,
+              itemName: "Hood of darkness"
+        },
+        {
+              id: 20131,
+              itemName: "Robe top of darkness"
+        },
+        {
+              id: 20137,
+              itemName: "Robe bottom of darkness"
+        },
+        {
+              id: 20134,
+              itemName: "Gloves of darkness"
+        },
+        {
+              id: 20140,
+              itemName: "Boots of darkness"
+        },
+        {
+              id: 20035,
+              itemName: "Samurai kasa"
+        },
+        {
+              id: 20038,
+              itemName: "Samurai shirt"
+        },
+        {
+              id: 20044,
+              itemName: "Samurai greaves"
+        },
+        {
+              id: 20047,
+              itemName: "Samurai boots"
+        },
+        {
+              id: 20041,
+              itemName: "Samurai gloves"
+        },
+        {
+              id: 20095,
+              itemName: "Ankou mask"
+        },
+        {
+              id: 20098,
+              itemName: "Ankou top"
+        },
+        {
+              id: 20101,
+              itemName: "Ankou gloves"
+        },
+        {
+              id: 20107,
+              itemName: "Ankou socks"
+        },
+        {
+              id: 20104,
+              itemName: "Ankou's leggings"
+        },
+        {
+              id: 20080,
+              itemName: "Mummy's head"
+        },
+        {
+              id: 20092,
+              itemName: "Mummy's feet"
+        },
+        {
+              id: 20086,
+              itemName: "Mummy's hands"
+        },
+        {
+              id: 20089,
+              itemName: "Mummy's legs"
+        },
+        {
+              id: 20083,
+              itemName: "Mummy's body"
+        },
+        {
+              id: 20125,
+              itemName: "Shayzien hood"
+        },
+        {
+              id: 20116,
+              itemName: "Hosidius hood"
+        },
+        {
+              id: 20113,
+              itemName: "Arceuus hood"
+        },
+        {
+              id: 20122,
+              itemName: "Piscarilius hood"
+        },
+        {
+              id: 20119,
+              itemName: "Lovakengj hood"
+        },
+        {
+              id: 20020,
+              itemName: "Lesser demon mask"
+        },
+        {
+              id: 20023,
+              itemName: "Greater demon mask"
+        },
+        {
+              id: 20026,
+              itemName: "Black demon mask"
+        },
+        {
+              id: 20032,
+              itemName: "Jungle demon mask"
+        },
+        {
+              id: 20029,
+              itemName: "Old demon mask"
+        },
+        {
+              id: 19724,
+              itemName: "Left eye patch"
+        },
+        {
+              id: 20110,
+              itemName: "Bowl wig"
+        },
+        {
+              id: 20056,
+              itemName: "Ale of the gods"
+        },
+        {
+              id: 20050,
+              itemName: "Obsidian cape (r)"
+        },
+        {
+              id: 20053,
+              itemName: "Half moon spectacles"
+        },
+        {
+              id: 20008,
+              itemName: "Fancy tiara"
+        },
+      ]
+    },
+    {
+          name: "Shared Treasure Trail Rewards",
+          items: [
+        {
+              id: 3827,
+              itemName: "Saradomin page 1"
+        },
+        {
+              id: 3828,
+              itemName: "Saradomin page 2"
+        },
+        {
+              id: 3829,
+              itemName: "Saradomin page 3"
+        },
+        {
+              id: 3830,
+              itemName: "Saradomin page 4"
+        },
+        {
+              id: 3831,
+              itemName: "Zamorak page 1"
+        },
+        {
+              id: 3832,
+              itemName: "Zamorak page 2"
+        },
+        {
+              id: 3833,
+              itemName: "Zamorak page 3"
+        },
+        {
+              id: 3834,
+              itemName: "Zamorak page 4"
+        },
+        {
+              id: 3835,
+              itemName: "Guthix page 1"
+        },
+        {
+              id: 3836,
+              itemName: "Guthix page 2"
+        },
+        {
+              id: 3837,
+              itemName: "Guthix page 3"
+        },
+        {
+              id: 3838,
+              itemName: "Guthix page 4"
+        },
+        {
+              id: 12613,
+              itemName: "Bandos page 1"
+        },
+        {
+              id: 12614,
+              itemName: "Bandos page 2"
+        },
+        {
+              id: 12615,
+              itemName: "Bandos page 3"
+        },
+        {
+              id: 12616,
+              itemName: "Bandos page 4"
+        },
+        {
+              id: 12617,
+              itemName: "Armadyl page 1"
+        },
+        {
+              id: 12618,
+              itemName: "Armadyl page 2"
+        },
+        {
+              id: 12619,
+              itemName: "Armadyl page 3"
+        },
+        {
+              id: 12620,
+              itemName: "Armadyl page 4"
+        },
+        {
+              id: 12621,
+              itemName: "Ancient page 1"
+        },
+        {
+              id: 12622,
+              itemName: "Ancient page 2"
+        },
+        {
+              id: 12623,
+              itemName: "Ancient page 3"
+        },
+        {
+              id: 12624,
+              itemName: "Ancient page 4"
+        },
+        {
+              id: 20220,
+              itemName: "Holy blessing"
+        },
+        {
+              id: 20223,
+              itemName: "Unholy blessing"
+        },
+        {
+              id: 20226,
+              itemName: "Peaceful blessing"
+        },
+        {
+              id: 20232,
+              itemName: "War blessing"
+        },
+        {
+              id: 20229,
+              itemName: "Honourable blessing"
+        },
+        {
+              id: 20235,
+              itemName: "Ancient blessing"
+        },
+        {
+              id: 12402,
+              itemName: "Nardah teleport"
+        },
+        {
+              id: 12411,
+              itemName: "Mos le'harmless teleport"
+        },
+        {
+              id: 12406,
+              itemName: "Mort'ton teleport"
+        },
+        {
+              id: 12404,
+              itemName: "Feldip hills teleport"
+        },
+        {
+              id: 12405,
+              itemName: "Lunar isle teleport"
+        },
+        {
+              id: 12403,
+              itemName: "Digsite teleport"
+        },
+        {
+              id: 12408,
+              itemName: "Piscatoris teleport"
+        },
+        {
+              id: 12407,
+              itemName: "Pest control teleport"
+        },
+        {
+              id: 12409,
+              itemName: "Tai bwo wannai teleport"
+        },
+        {
+              id: 12642,
+              itemName: "Lumberyard teleport"
+        },
+        {
+              id: 12410,
+              itemName: "Iorwerth camp teleport"
+        },
+        {
+              id: 21389,
+              itemName: "Master scroll book"
+        },
+        {
+              id: 7329,
+              itemName: "Red firelighter"
+        },
+        {
+              id: 7330,
+              itemName: "Green firelighter"
+        },
+        {
+              id: 7331,
+              itemName: "Blue firelighter"
+        },
+        {
+              id: 10326,
+              itemName: "Purple firelighter"
+        },
+        {
+              id: 10327,
+              itemName: "White firelighter"
+        },
+        {
+              id: 20238,
+              itemName: "Charge dragonstone jewellery scroll"
+        },
+        {
+              id: 4561,
+              itemName: "Purple sweets"
+        }
+      ]
+    }
+  ]
+}

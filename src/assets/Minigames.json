@@ -1,0 +1,544 @@
+{
+    name: "Minigames",
+    subCategories: [
+    {
+        name: "Barbarian Assault",
+        items: [
+        {
+            id: 12703,
+            itemName: "Pet penance queen"
+        },
+        {
+            id: 10548,
+            itemName: "Fighter hat"
+        },
+        {
+            id: 10550,
+            itemName: "Ranger hat"
+        },
+        {
+            id: 10549,
+            itemName: "Runner hat"
+        },
+        {
+            id: 10547,
+            itemName: "Healer hat"
+        },
+        {
+            id: 10551,
+            itemName: "Fighter torso"
+        },
+        {
+            id: 10555,
+            itemName: "Penance skirt"
+        },
+        {
+            id: 10552,
+            itemName: "Runner boots"
+        },
+        {
+            id: 10553,
+            itemName: "Penance gloves"
+        },
+        {
+            id: 10589,
+            itemName: "Granite helm"
+        },
+        {
+            id: 10564,
+            itemName: "Granite body"
+        }
+      ]
+    },
+    {
+        name: "Castle Wars",
+        items: [
+        {
+            id: 4071,
+            itemName: "Decorative helm (red)"
+        },
+        {
+            id: 4069,
+            itemName: "Decorative armour (red platebody)"
+        },
+        {
+            id: 4068,
+            itemName: "Decorative sword (red)"
+        },
+        {
+            id: 4072,
+            itemName: "Decorative shield (red)"
+        },
+        {
+            id: 4070,
+            itemName: "Decorative armour (red platelegs)"
+        },
+        {
+            id: 11893,
+            itemName: "Decorative armour (red plateskirt)"
+        },
+        {
+            id: 4506,
+            itemName: "Decorative helm (white)"
+        },
+        {
+            id: 4504,
+            itemName: "Decorative armour (white platebody)"
+        },
+        {
+            id: 4503,
+            itemName: "Decorative sword (white)"
+        },
+        {
+            id: 4507,
+            itemName: "Decorative shield (white)"
+        },
+        {
+            id: 4505,
+            itemName: "Decorative armour (white platelegs)"
+        },
+        {
+            id: 11894,
+            itemName: "Decorative armour (white plateskirt)"
+        },
+        {
+            id: 4511,
+            itemName: "Decorative helm (gold)"
+        },
+        {
+            id: 4509,
+            itemName: "Decorative armour (gold platebody)"
+        },
+        {
+            id: 4508,
+            itemName: "Decorative sword (gold)"
+        },
+        {
+            id: 4512,
+            itemName: "Decorative shield (gold)"
+        },
+        {
+            id: 4510,
+            itemName: "Decorative armour (gold platelegs)"
+        },
+        {
+            id: 11895,
+            itemName: "Decorative armour (gold plateskirt)"
+        },
+        {
+            id: 4513,
+            itemName: "Castlewars hood (Saradomin)"
+        },
+        {
+            id: 4514,
+            itemName: "Castlewars cloak (Saradomin)"
+        },
+        {
+            id: 4515,
+            itemName: "Castlewars hood (Zamorak)"
+        },
+        {
+            id: 4516,
+            itemName: "Castlewars cloak (Zamorak)"
+        },
+        {
+            id: 4037,
+            itemName: "Saradomin banner"
+        },
+        {
+            id: 4039,
+            itemName: "Zamorak banner"
+        },
+        {
+            id: 11898,
+            itemName: "Decorative armour (magic hat)"
+        },
+        {
+            id: 11896,
+            itemName: "Decorative armour (magic top)"
+        },
+        {
+            id: 11897,
+            itemName: "Decorative armour (magic legs)"
+        },
+        {
+            id: 11899,
+            itemName: "Decorative armour (ranged top)"
+        },
+        {
+            id: 11900,
+            itemName: "Decorative armour (ranged legs)"
+        },
+        {
+            id: 11901,
+            itemName: "Decorative armour (quiver)"
+        },
+        {
+            id: 12637,
+            itemName: "Saradomin halo"
+        },
+        {
+            id: 12638,
+            itemName: "Zamorak halo"
+        },
+        {
+            id: 12639,
+            itemName: "Guthix halo"
+        }
+      ]
+    },
+    {
+        name: "Fishing Trawler",
+        items: [
+        {
+            id: 13258,
+            itemName: "Angler hat"
+        },
+        {
+            id: 13259,
+            itemName: "Angler top"
+        },
+        {
+            id: 13260,
+            itemName: "Angler waders"
+        },
+        {
+            id: 13261,
+            itemName: "Angler boots"
+        }
+      ]
+    },
+    {
+        name: "Gnome Restaurant",
+        items: [
+        {
+            id: 9469,
+            itemName: "Grand seed pod"
+        },
+        {
+            id: 9470,
+            itemName: "Gnome scarf"
+        },
+        {
+            id: 9472,
+            itemName: "Gnome goggles"
+        },
+        {
+            id: 9475,
+            itemName: "Mint cake"
+        }
+      ]
+    },
+    {
+        name: "Magic Training Arena",
+        items: [
+        {
+            id: 6908,
+            itemName: "Beginner wand"
+        },
+        {
+            id: 6910,
+            itemName: "Apprentice wand"
+        },
+        {
+            id: 6912,
+            itemName: "Teacher wand"
+        },
+        {
+            id: 6914,
+            itemName: "Master wand"
+        },
+        {
+            id: 6918,
+            itemName: "Infinity hat"
+        },
+        {
+            id: 6916,
+            itemName: "Infinity top"
+        },
+        {
+            id: 6924,
+            itemName: "Infinity bottoms"
+        },
+        {
+            id: 6920,
+            itemName: "Infinity boots"
+        },
+        {
+            id: 6922,
+            itemName: "Infinity gloves"
+        },
+        {
+            id: 6889,
+            itemName: "Mage's book"
+        },
+        {
+            id: 6926,
+            itemName: "Bones to peaches"
+        }
+      ]
+    },
+    {
+        name: "Pest Control",
+        items: [
+        {
+            id: 8841,
+            itemName: "Void knight mace"
+        },
+        {
+            id: 8839,
+            itemName: "Void knight top"
+        },
+        {
+            id: 8840,
+            itemName: "Void knight robe"
+        },
+        {
+            id: 8842,
+            itemName: "Void knight gloves"
+        },
+        {
+            id: 11663,
+            itemName: "Void mage helm"
+        },
+        {
+            id: 11665,
+            itemName: "Void melee helm"
+        },
+        {
+            id: 11664,
+            itemName: "Void ranger helm"
+        },
+        {
+            id: 11666,
+            itemName: "Void seal(8)"
+        },
+        {
+            id: 13072,
+            itemName: "Elite void top"
+        },
+        {
+            id: 13073,
+            itemName: "Elite void robe"
+        }
+      ]
+    },
+    {
+        name: "Rogues' Den",
+        items: [
+        {
+            id: 5554,
+            itemName: "Rogue mask"
+        },
+        {
+            id: 5553,
+            itemName: "Rogue top"
+        },
+        {
+            id: 5555,
+            itemName: "Rogue trousers"
+        },
+        {
+            id: 5557,
+            itemName: "Rogue boots"
+        },
+        {
+            id: 5556,
+            itemName: "Rogue gloves"
+        }
+      ]
+    },
+    {
+        name: "Shades of Mort'ton",
+        items: [
+        {
+            id: 12853,
+            itemName: "Amulet of the damned"
+        },
+        {
+            id: 12854,
+            itemName: "Flamtaer bag"
+        },
+        {
+            id: 3470,
+            itemName: "Fine cloth"
+        }
+      ]
+    },
+    {
+        name: "Temple Trekking",
+        items: [
+        {
+            id: 10941,
+            itemName: "Lumberjack hat"
+        },
+        {
+            id: 10939,
+            itemName: "Lumberjack top"
+        },
+        {
+            id: 10940,
+            itemName: "Lumberjack legs"
+        },
+        {
+            id: 10933,
+            itemName: "Lumberjack boots"
+        }
+      ]
+    },
+    {
+        name: "Tithe Farm",
+        items: [
+        {
+            id: 13646,
+            itemName: "Farmer's strawhat"
+        },
+        {
+            id: 13642,
+            itemName: "Farmer's jacket"
+        },
+        {
+            id: 13640,
+            itemName: "Farmer's boro trousers"
+        },
+        {
+            id: 13644,
+            itemName: "Farmer's boots"
+        },
+        {
+            id: 13639,
+            itemName: "Seed box"
+        },
+        {
+            id: 13353,
+            itemName: "Gricoller's can"
+        }
+      ]
+    },
+    {
+        name: "Trouble Brewing",
+        items: [
+        {
+            id: 8952,
+            itemName: "Blue naval shirt"
+        },
+        {
+            id: 8959,
+            itemName: "Blue tricorn hat"
+        },
+        {
+            id: 8991,
+            itemName: "Blue navy slacks"
+        },
+        {
+            id: 8953,
+            itemName: "Green naval shirt"
+        },
+        {
+            id: 8960,
+            itemName: "Green tricorn hat"
+        },
+        {
+            id: 8992,
+            itemName: "Green navy slacks"
+        },
+        {
+            id: 8954,
+            itemName: "Red naval shirt"
+        },
+        {
+            id: 8961,
+            itemName: "Red tricorn hat"
+        },
+        {
+            id: 8993,
+            itemName: "Red navy slacks"
+        },
+        {
+            id: 8955,
+            itemName: "Brown naval shirt"
+        },
+        {
+            id: 8962,
+            itemName: "Brown tricorn hat"
+        },
+        {
+            id: 8994,
+            itemName: "Brown navy slacks"
+        },
+        {
+            id: 8956,
+            itemName: "Black naval shirt"
+        },
+        {
+            id: 8963,
+            itemName: "Black tricorn hat"
+        },
+        {
+            id: 8995,
+            itemName: "Black navy slacks"
+        },
+        {
+            id: 8957,
+            itemName: "Purple naval shirt"
+        },
+        {
+            id: 8964,
+            itemName: "Purple tricorn hat"
+        },
+        {
+            id: 8996,
+            itemName: "Purple navy slacks"
+        },
+        {
+            id: 8958,
+            itemName: "Grey naval shirt"
+        },
+        {
+            id: 8965,
+            itemName: "Grey tricorn hat"
+        },
+        {
+            id: 8997,
+            itemName: "Grey navy slacks"
+        },
+        {
+            id: 8966,
+            itemName: "Cutthroat flag"
+        },
+        {
+            id: 8967,
+            itemName: "Guilded smile flag"
+        },
+        {
+            id: 8968,
+            itemName: "Bronze fist flag"
+        },
+        {
+            id: 8969,
+            itemName: "Lucky shot flag"
+        },
+        {
+            id: 8970,
+            itemName: "Treasure flag"
+        },
+        {
+            id: 8971,
+            itemName: "Phasmatys flag"
+        },
+        {
+            id: 8988,
+            itemName: "The stuff"
+        },
+        {
+            id: 8940,
+            itemName: "Rum"
+        },
+        {
+            id: 8941,
+            itemName: "Rum"
+        }
+      ]
+    }
+  ]
+}
